@@ -1,0 +1,109 @@
+---
+title: "Regional Collapse (working title"
+output: html_document
+bibliography: refs.bib
+---
+
+## Introduction
+For a long time we thought the oceans were inexhaustable [Thomas Huxley]. The possibility of catastrophic collapse became a reality with the spectacular collapse of cod in the NE Atlantic, which put thousands out of work, caused a state of emergency, and from which the fish have not yet recovered. Logically, we expect that if we harvest more fish than are born each year, we will drive the population to extinction. Consequently, we would expect fish populations that were most heavily harvested to be the most likely to collapse, and those stocks that continue to have high fishing pressure will have trouble recovering to previous population sizes. Management would appear to be straightforward. Unfortunately it's both logistically and technically difficult to count how many fish are in the sea, and so managers must make decisions based on limited information. Despite imperfect information, there are many pieces of evidence to suggest we have done a relatively poor job of protecting fish populations from collapse. If the equation is as simple as harvesting less than the number of fish that are born each year, why do we still cause collapse? Some are due to political and economic realities that the current value of a fish on someone's plate is higher than the future which has that fish in the sea. But it's also because it's been difficult to predict if there are any other factors which predispose a stock to collapse. 
+
+There has been many well-publicized studies documenting the current state of marine fisheries and considering what determines recovery of fish populations. On historical time scales, there is a broad conclusion among marine ecologists that we have trashed coastal seas. Over the past 19th century, fisheries scientists have struggled to decide  The current status is that some fish populations are collapsed and some aren't, some are still overfished and some aren't, and there is considerable global variation. There is work that suggests that environmental productivity, life history is (and is not), and harvesting pressure are important in determining collapse. There is also research to suggest that harvesting rate is what's important in determining recovery, as we might hope.
+
+However there has been no work to consider these factors together, and to compare which best predict collapse. 
+
+But conclusions have been inconclusive 
+
+
+
+### Previous work
+
+Current status of marine ecosystems
+
++ @hutchings2000collapse is responding to the concern that the IUCN and others are signficiantly overestimating the threats to marine fish. Because fish are thought to have great natural variability in abundance, high reproductive potential, and a "remarkable" ability to grow from low population sizes a collapse should be defined differently for them.
+    + Using one of the earlier versions of the Ram Myers stock databse, @hutchings2000collapse examined fish populations which had experienced the largest percentage decline over a period of 15 years and then population sizes 5, 10 and 15 years thereafter. 
+    + The sample was 90 stocks, ranging from 12 to 99%. Of these stocks, found herring were most able to recovery, and many of the non-herring did not recover at all 15 years after collapse. 
+    + Possible explanations for the differences between herring are ecology and harvesting: either that the life history of herring may make them better able to recover from intense fishing pressure or that they are rarely an incedential catch.
+    + Concludes that marine fish should not have a seperate definition of collapse and that marine sytems may take longer than previously thought to recover. 
+    
+    
+@Halpernetal2008 - patterns of human impact on marine ecosystems
+
+@Halpernetal2008 - index of ocean health
+
++ @worm2009rebuilding summarize current state of global marine fisheries. Describe the current state of affairs as a "mosaic of stable, declining, collapsed and rebuilding fish stocks and ecosystems" and does not make a case for any pattern in collapse or recovery.  
+
+@neubauer2013resilience - Is lack of recovery due to harvesting rates that are too high or erosion of population resilience? After looking at _____ found that moderate levels of overfishing in enhanced population resilience. But prolonged, intense exploitation delays and increases uncertainty in recovery, even after controlling for influences of fishing and life history (trophic level, pelagic versus demersal). But most of the harvesting rates are just too high to allow for fish populations to recover.  
++ Alle effects, reduced productivity due to environmental regime shift, life history traits caused by high fishing pressure have been proposed as causes of impaired recovery. 
++ Find that recovery is based on how low they were pushed (minimum biomass), relative fishing mortality during recovery, but also by their exploitation history -- how long and hard have they been fished prior to collapse? On their own, exploitation time (time between the start of a fishery and its year of depletion) and historic fishing intensity (long term average relative fishing mortlaity during this time) are positive influences, associated with quick recoveries. However the interaction of the two is negative. 
+
+@Jacksonetal2012... - historical patterns of collapse in coastal ecosystems
+
+@Lotzeetal2006 - historical patterns of collapse in coastal ecosystems
+
+@costello2012status - builds a model to infer the status of unassessed fisheries and finds most of them are collapsed. 
+  + First builds a multivariate regression approach to identify predictors of stock status $\left(\frac{B}{B_{msy}}\right)$ and then apply this to unassessed fisheries. 
+  + assume the status of the population in a function of its life-history traits and harvest history, and the manner which these variables collectively affect a fishery status is consistent across species with similar characteristics. 
+  + estimate $\log\frac{B}{B_{msy}}$ to catch history, fishery development characteristics, biological characteristics, a time trend, and fixed effects for species type. 
+  + then use a regression coefficient to predict $\frac{B}{B_{msy}}$ for unassessed fisheires using the same variables in the regression model. 
+
+@hilborn2014food - 
+
+@melnychuk2013effects - effects of management of western N. American groundfish stocks
+
+How to define  collapse?
+
+@2003Wormetal - worldwide depletion in predator fish
+
+@Branchetal2011 - inferring collapse from catch ConsBio
+
+@2003Hilbornetal - annual reviews: state of worlds fisheries
+
+Why does collapse matter?
+
+@Wormetal2006 - drop in ecosystem services associated with biodiversity
+
+@Smithetal - impacts of fishing low trophic levesl 
+
+@GarciaRosenberg2010 - why does the future of marine fish matter? food!
+
+What explains collapse?
+
+@Pinskyetal2011 - life history and collapse
+
+@Paulyetal1998 - fishing down foodwebs
+
+@Branchetal - trophic fingerprint
+
+@Ludwigetal1993 - lessons from history on collapse
+
+@JenningsKaiser1998 - effects of fishing on marine ecosystems
+
+@SheltonMangel - fishing makes fish ppopulations more variable
+
+@Hilbornetal2014 - RAM databaes to test for depensation on stocks at low abundance, sometimes found. 
+
+How do we avoid collapse?
+
+@Paulyetal2002 - sustainability in fisheries
+
+@WormBranch2012 - The future of fish, how to explain current pattern of collapse and how to fix it.
+
+@hilborn2014 - reflections on the success of traditional fisheries management. Descriptive, points out regional variation qualitatively.  
+
+## Methods
+
+### Ram Legacy database
+
+### Environmental data
+
+### Analyses
+
+## Results
+
+## Discussion
+
+## Tables
+
+## Figures
+
+## References

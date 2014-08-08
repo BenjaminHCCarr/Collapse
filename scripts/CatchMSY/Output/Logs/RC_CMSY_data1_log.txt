@@ -1,0 +1,380 @@
+
+ File ../Input/RC_CMSY_data1.csv read successfully 
+
+ Stock ADFG-HERRPWS-1980-2006-COLLIE 
+Last year = 2006 , last catch = 0 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1981  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 87.2 - 4359 
+First MSY = 22.1 
+First r = 0.261 
+New upper bound for r = 1.2 
+New range for k = 126 - 333 
+Possible combinations =  2047 
+geom. mean r = 0.318 
+r +/- 2 SD = 0.197 - 0.511 
+geom. mean k = 289 
+k +/- 2 SD = 218 - 383 
+geom. mean MSY = 22.9 
+MSY +/- 2 SD = 18.2 - 28.9 
+
+ Stock ADFG-HERRSITKA-1978-2007-COLLIE 
+Last year = 2007 , last catch = 31.57456 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 60.3 - 3016 
+First MSY = 28.3 
+First r = 0.424 
+New upper bound for r = 1.2 
+New range for k = 100 - 367 
+Possible combinations =  22246 
+geom. mean r = 0.551 
+r +/- 2 SD = 0.239 - 1.27 
+geom. mean k = 210 
+k +/- 2 SD = 105 - 423 
+geom. mean MSY = 29 
+MSY +/- 2 SD = 22.1 - 38.1 
+
+ Stock AFSC-ALPLAICBSAI-1972-2008-MELNYCHUK 
+Last year = 2007 , last catch = 19427 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1976  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 61638 - 3081900 
+First MSY = 15462 
+First r = 0.264 
+New upper bound for r = 0.87 
+New range for k = 110570 - 247852 
+Possible combinations =  2796 
+geom. mean r = 0.304 
+r +/- 2 SD = 0.202 - 0.456 
+geom. mean k = 211906 
+k +/- 2 SD = 163925 - 273933 
+geom. mean MSY = 16092 
+MSY +/- 2 SD = 13742 - 18844 
+
+ Stock AFSC-ARFLOUNDBSAI-1970-2008-STANTON 
+Last year = 2008 , last catch = 19403 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1971  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 24668 - 1233400 
+First MSY = 15722 
+First r = 0.389 
+New upper bound for r = 1.2 
+New range for k = 56858 - 229015 
+Possible combinations =  13978 
+geom. mean r = 0.515 
+r +/- 2 SD = 0.207 - 1.28 
+geom. mean k = 122795 
+k +/- 2 SD = 55258 - 272874 
+geom. mean MSY = 15821 
+MSY +/- 2 SD = 13141 - 19047 
+
+ Stock AFSC-ARFLOUNDGA-1958-2010-STANTON 
+Last year = 2008 , last catch = 27938 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 29994 - 1499700 
+First MSY = 21767 
+First r = 0.425 
+New upper bound for r = 1.2 
+New range for k = 74483 - 258195 
+Possible combinations =  26305 
+geom. mean r = 0.588 
+r +/- 2 SD = 0.257 - 1.35 
+geom. mean k = 154092 
+k +/- 2 SD = 80240 - 295917 
+geom. mean MSY = 22667 
+MSY +/- 2 SD = 16194 - 31727 
+
+ Stock AFSC-ATKABSAI-1976-2009-STANTON 
+Last year = 2008 , last catch = 58471 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 103942 - 5197100 
+First MSY = 58429 
+First r = 0.382 
+New upper bound for r = 1.2 
+New range for k = 224992 - 776084 
+Possible combinations =  15705 
+geom. mean r = 0.495 
+r +/- 2 SD = 0.222 - 1.1 
+geom. mean k = 482080 
+k +/- 2 SD = 248335 - 935837 
+geom. mean MSY = 59607 
+MSY +/- 2 SD = 47420 - 74927 
+
+ Stock AFSC-CABEZNCAL-1916-2005-STANTON 
+Last year = 2004 , last catch = 72.91 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1917  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 250 - 12490 
+First MSY = 95 
+First r = 0.349 
+New upper bound for r = 1.2 
+New range for k = 485 - 1400 
+Possible combinations =  5902 
+geom. mean r = 0.399 
+r +/- 2 SD = 0.187 - 0.851 
+geom. mean k = 990 
+k +/- 2 SD = 601 - 1633 
+geom. mean MSY = 98.9 
+MSY +/- 2 SD = 75.7 - 129 
+
+ Stock AFSC-CABEZSCAL-1932-2005-STANTON 
+Last year = 2004 , last catch = 12.8 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1933  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 190 - 9500 
+First MSY = 29 
+First r = 0.251 
+New upper bound for r = 0.63 
+New range for k = 276 - 494 
+Possible combinations =  1274 
+geom. mean r = 0.277 
+r +/- 2 SD = 0.189 - 0.405 
+geom. mean k = 437 
+k +/- 2 SD = 351 - 542 
+geom. mean MSY = 30.2 
+MSY +/- 2 SD = 25.6 - 35.6 
+
+ Stock AFSC-DSOLEGA-1978-2010-STANTON 
+Last year = 2008 , last catch = 539 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 9741 - 487050 
+First MSY = 2073 
+First r = 0.256 
+New upper bound for r = 0.81 
+New range for k = 19287 - 33193 
+Possible combinations =  2463 
+geom. mean r = 0.298 
+r +/- 2 SD = 0.2 - 0.442 
+geom. mean k = 30257 
+k +/- 2 SD = 25724 - 35589 
+geom. mean MSY = 2252 
+MSY +/- 2 SD = 1776 - 2854 
+
+ Stock AFSC-DUSROCKGA-1973-2008-MELNYCHUK 
+Last year = 2008 , last catch = 3527 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 4538 - 226900 
+First MSY = 2952 
+First r = 0.398 
+New upper bound for r = 1.2 
+New range for k = 10713 - 38076 
+Possible combinations =  18002 
+geom. mean r = 0.526 
+r +/- 2 SD = 0.233 - 1.19 
+geom. mean k = 23047 
+k +/- 2 SD = 11760 - 45166 
+geom. mean MSY = 3032 
+MSY +/- 2 SD = 2365 - 3888 
+
+ Stock AFSC-FLSOLEBSAI-1977-2008-STANTON 
+Last year = 2008 , last catch = 21277 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 24597 - 1229850 
+First MSY = 17683 
+First r = 0.414 
+New upper bound for r = 1.2 
+New range for k = 62699 - 225521 
+Possible combinations =  20221 
+geom. mean r = 0.558 
+r +/- 2 SD = 0.239 - 1.3 
+geom. mean k = 130857 
+k +/- 2 SD = 64755 - 264437 
+geom. mean MSY = 18243 
+MSY +/- 2 SD = 14064 - 23664 
+
+ Stock AFSC-FLSOLEGA-1978-2010-Stachura 
+Last year = 2010 , last catch = 3778 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3778 - 188900 
+First MSY = 2848 
+First r = 0.434 
+New upper bound for r = 1.2 
+New range for k = 9871 - 32467 
+Possible combinations =  29949 
+geom. mean r = 0.595 
+r +/- 2 SD = 0.265 - 1.34 
+geom. mean k = 19993 
+k +/- 2 SD = 10869 - 36777 
+geom. mean MSY = 2974 
+MSY +/- 2 SD = 2032 - 4353 
+
+ Stock AFSC-GHALBSAI-1960-2009-STANTON 
+Last year = 2008 , last catch = 2541 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 57321 - 2866050 
+First MSY = 28433 
+First r = 0.238 
+New upper bound for r = 0.51 
+New range for k = 266488 - 402499 
+Possible combinations =  678 
+geom. mean r = 0.279 
+r +/- 2 SD = 0.198 - 0.393 
+geom. mean k = 371648 
+k +/- 2 SD = 322535 - 428240 
+geom. mean MSY = 25917 
+MSY +/- 2 SD = 19994 - 33595 
+
+ Stock AFSC-NROCKBSAI-1974-2009-STANTON 
+Last year = 2008 , last catch = 885 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 6724 - 336200 
+First MSY = 3245 
+First r = 0.327 
+New upper bound for r = 1.2 
+New range for k = 15859 - 46884 
+Possible combinations =  5325 
+geom. mean r = 0.395 
+r +/- 2 SD = 0.19 - 0.82 
+geom. mean k = 34887 
+k +/- 2 SD = 21131 - 57597 
+geom. mean MSY = 3442 
+MSY +/- 2 SD = 2683 - 4417 
+
+ Stock AFSC-NROCKGA-1959-2008-MELNYCHUK 
+Last year = 2007 , last catch = 4187 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1962  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 17430 - 871500 
+First MSY = 3947 
+First r = 0.228 
+New upper bound for r = 0.52 
+New range for k = 43658 - 65030 
+Possible combinations =  1559 
+geom. mean r = 0.263 
+r +/- 2 SD = 0.203 - 0.341 
+geom. mean k = 61514 
+k +/- 2 SD = 55525 - 68150 
+geom. mean MSY = 4046 
+MSY +/- 2 SD = 3378 - 4847 
+
+ Stock AFSC-NRSOLEEBSAI-1971-2008-STANTON 
+Last year = 2008 , last catch = 48740 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1978  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 86366 - 4318300 
+First MSY = 45526 
+First r = 0.321 
+New upper bound for r = 1.2 
+New range for k = 191285 - 666938 
+Possible combinations =  7755 
+geom. mean r = 0.388 
+r +/- 2 SD = 0.206 - 0.729 
+geom. mean k = 474062 
+k +/- 2 SD = 280544 - 801068 
+geom. mean MSY = 45946 
+MSY +/- 2 SD = 38856 - 54330 
+
+ Stock AFSC-PCODBSAI-1964-2008-MELNYCHUK 
+Last year = 2007 , last catch = 173603 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 257762 - 12888100 
+First MSY = 197992 
+First r = 0.385 
+New upper bound for r = 1.2 
+New range for k = 713426 - 2729912 
+Possible combinations =  14035 
+geom. mean r = 0.497 
+r +/- 2 SD = 0.217 - 1.14 
+geom. mean k = 1609463 
+k +/- 2 SD = 770513 - 3361879 
+geom. mean MSY = 2e+05 
+MSY +/- 2 SD = 165042 - 242472 
+
+ Stock AFSC-PCODGA-1964-2008-MELNYCHUK 
+Last year = 2007 , last catch = 51489 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 81784 - 4089200 
+First MSY = 57712 
+First r = 0.35 
+New upper bound for r = 1.2 
+New range for k = 226382 - 803900 
+Possible combinations =  10072 
+geom. mean r = 0.435 
+r +/- 2 SD = 0.214 - 0.886 
+geom. mean k = 537812 
+k +/- 2 SD = 291910 - 990860 
+geom. mean MSY = 58534 
+MSY +/- 2 SD = 48966 - 69970 

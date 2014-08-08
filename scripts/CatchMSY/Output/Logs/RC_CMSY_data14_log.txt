@@ -1,0 +1,401 @@
+
+ File ../Input/RC_CMSY_data14.csv read successfully 
+
+ Stock SEFSC-RSNAPWGM-1880-2003-STANTON 
+Last year = 2003 , last catch = 2068.124 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1881  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2920 - 145990 
+First MSY = 2385 
+First r = 0.39 
+New upper bound for r = 1.2 
+New range for k = 8668 - 36156 
+Possible combinations =  10478 
+geom. mean r = 0.469 
+r +/- 2 SD = 0.203 - 1.09 
+geom. mean k = 20445 
+k +/- 2 SD = 9430 - 44329 
+geom. mean MSY = 2399 
+MSY +/- 2 SD = 2091 - 2753 
+
+ Stock SEFSC-SBARSHARATL-1975-2004-FAUCONNET 
+Last year = 2004 , last catch = 0.02272498 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 0.198 - 9.89 
+First MSY = 0.0542 
+First r = 0.289 
+New upper bound for r = 1.1 
+New range for k = 0.277 - 0.781 
+Possible combinations =  5408 
+geom. mean r = 0.354 
+r +/- 2 SD = 0.213 - 0.588 
+geom. mean k = 0.632 
+k +/- 2 SD = 0.442 - 0.904 
+geom. mean MSY = 0.0559 
+MSY +/- 2 SD = 0.0458 - 0.0683 
+
+ Stock SEFSC-SNOSESHARATL-1950-2005-FAUCONNET 
+Last year = 2005 , last catch = 0.24231 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1951  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 0.782 - 39.1 
+First MSY = 0.221 
+First r = 0.302 
+New upper bound for r = 1 
+New range for k = 1.19 - 3.59 
+Possible combinations =  3058 
+geom. mean r = 0.343 
+r +/- 2 SD = 0.193 - 0.608 
+geom. mean k = 2.65 
+k +/- 2 SD = 1.68 - 4.19 
+geom. mean MSY = 0.227 
+MSY +/- 2 SD = 0.2 - 0.258 
+
+ Stock SEFSC-SNOWGROUPSATLC-1961-2002-STANTON 
+Last year = 2002 , last catch = 120.87 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1963  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 418 - 20913 
+First MSY = 176 
+First r = 0.272 
+New upper bound for r = 1 
+New range for k = 987 - 2879 
+Possible combinations =  1914 
+geom. mean r = 0.316 
+r +/- 2 SD = 0.19 - 0.524 
+geom. mean k = 2316 
+k +/- 2 SD = 1601 - 3352 
+geom. mean MSY = 183 
+MSY +/- 2 SD = 158 - 211 
+
+ Stock SEFSC-SPANMACKSATLC-1950-2008-JENSEN 
+Last year = 2007 , last catch = 2215.51 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1951  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 9308 - 465402 
+First MSY = 7028 
+First r = 0.216 
+New upper bound for r = 0.33 
+New range for k = 87566 - 117722 
+Possible combinations =  340 
+geom. mean r = 0.242 
+r +/- 2 SD = 0.196 - 0.3 
+geom. mean k = 107961 
+k +/- 2 SD = 93311 - 124911 
+geom. mean MSY = 6536 
+MSY +/- 2 SD = 5745 - 7437 
+
+ Stock SEFSC-TILESATLC-1961-2002-STANTON 
+Last year = 2002 , last catch = 189.21 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1963  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1495 - 74768 
+First MSY = 330 
+First r = 0.263 
+New upper bound for r = 0.83 
+New range for k = 2671 - 5338 
+Possible combinations =  2169 
+geom. mean r = 0.302 
+r +/- 2 SD = 0.197 - 0.461 
+geom. mean k = 4637 
+k +/- 2 SD = 3678 - 5847 
+geom. mean MSY = 350 
+MSY +/- 2 SD = 288 - 425 
+
+ Stock SEFSC-VSNAPGM-1981-2004-JENSEN 
+Last year = 2004 , last catch = 1332.63 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1766 - 88324 
+First MSY = 1243 
+First r = 0.37 
+New upper bound for r = 1.2 
+New range for k = 4758 - 16634 
+Possible combinations =  14385 
+geom. mean r = 0.499 
+r +/- 2 SD = 0.215 - 1.16 
+geom. mean k = 10159 
+k +/- 2 SD = 5055 - 20413 
+geom. mean MSY = 1268 
+MSY +/- 2 SD = 1019 - 1576 
+
+ Stock SEFSC-VSNAPSATLC-1946-2008-STANTON 
+Last year = 2007 , last catch = 460.6491 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1959  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 741 - 37057 
+First MSY = 465 
+First r = 0.4 
+New upper bound for r = 1.2 
+New range for k = 1678 - 6348 
+Possible combinations =  16049 
+geom. mean r = 0.509 
+r +/- 2 SD = 0.225 - 1.15 
+geom. mean k = 3699 
+k +/- 2 SD = 1798 - 7609 
+geom. mean MSY = 471 
+MSY +/- 2 SD = 384 - 577 
+
+ Stock SEFSC-YTSNAPSATLC-1962-2001-STANTON 
+Last year = 2001 , last catch = 644.5 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1963  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1079 - 53950 
+First MSY = 745 
+First r = 0.382 
+New upper bound for r = 1.2 
+New range for k = 2786 - 9936 
+Possible combinations =  15299 
+geom. mean r = 0.485 
+r +/- 2 SD = 0.22 - 1.07 
+geom. mean k = 6210 
+k +/- 2 SD = 3175 - 12147 
+geom. mean MSY = 754 
+MSY +/- 2 SD = 603 - 942 
+
+ Stock SFI-WPOLLNSO-1985-1994-JENSEN 
+Last year = 1992 , last catch = 1967000 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1986  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1967000 - 98350000 
+First MSY = 2150736 
+First r = 0.365 
+New upper bound for r = 1.2 
+New range for k = 5018144 - 17236334 
+Possible combinations =  32531 
+geom. mean r = 0.606 
+r +/- 2 SD = 0.278 - 1.32 
+geom. mean k = 10752547 
+k +/- 2 SD = 5652503 - 20454172 
+geom. mean MSY = 1628786 
+MSY +/- 2 SD = 1075289 - 2467189 
+
+ Stock SPC-ALBASPAC-1959-2006-JENSEN 
+Last year = 2006 , last catch = 54323.6 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1960  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 72554 - 3627675 
+First MSY = 54070 
+First r = 0.423 
+New upper bound for r = 1.2 
+New range for k = 191573 - 668322 
+Possible combinations =  25423 
+geom. mean r = 0.559 
+r +/- 2 SD = 0.246 - 1.27 
+geom. mean k = 398408 
+k +/- 2 SD = 206212 - 769738 
+geom. mean MSY = 55679 
+MSY +/- 2 SD = 40504 - 76540 
+
+ Stock SPC-BIGEYEWPO-1952-2006-JENSEN 
+Last year = 2006 , last catch = 107413.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1953  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 145859 - 7292965 
+First MSY = 110044 
+First r = 0.415 
+New upper bound for r = 1.2 
+New range for k = 386498 - 1376933 
+Possible combinations =  22284 
+geom. mean r = 0.553 
+r +/- 2 SD = 0.242 - 1.27 
+geom. mean k = 814335 
+k +/- 2 SD = 411014 - 1613428 
+geom. mean MSY = 112665 
+MSY +/- 2 SD = 85003 - 149330 
+
+ Stock SPC-SKJCWPAC-1972-2006-JENSEN 
+Last year = 2006 , last catch = 1339779 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1973  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1339779 - 6.7e+07 
+First MSY = 1054248 
+First r = 0.433 
+New upper bound for r = 1.2 
+New range for k = 3614392 - 12524651 
+Possible combinations =  27789 
+geom. mean r = 0.587 
+r +/- 2 SD = 0.257 - 1.34 
+geom. mean k = 7468403 
+k +/- 2 SD = 3894115 - 14323420 
+geom. mean MSY = 1095497 
+MSY +/- 2 SD = 776119 - 1546301 
+
+ Stock SPC-STMARLINSWPO-1950-2003-JENSEN 
+Last year = 2003 , last catch = 2010.09 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1951  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 10364 - 518215 
+First MSY = 2985 
+First r = 0.234 
+New upper bound for r = 0.59 
+New range for k = 26896 - 51551 
+Possible combinations =  1054 
+geom. mean r = 0.265 
+r +/- 2 SD = 0.203 - 0.346 
+geom. mean k = 46319 
+k +/- 2 SD = 38455 - 55790 
+geom. mean MSY = 3069 
+MSY +/- 2 SD = 2788 - 3378 
+
+ Stock SPC-YFINCWPAC-1952-2005-JENSEN 
+Last year = 2005 , last catch = 413417.9 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1953  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 449995 - 22499745 
+First MSY = 391283 
+First r = 0.413 
+New upper bound for r = 1.2 
+New range for k = 1365606 - 5116561 
+Possible combinations =  19756 
+geom. mean r = 0.541 
+r +/- 2 SD = 0.233 - 1.26 
+geom. mean k = 2946015 
+k +/- 2 SD = 1423387 - 6097433 
+geom. mean MSY = 398172 
+MSY +/- 2 SD = 312111 - 507964 
+
+ Stock SPRFMO-CHTRACCH-1950-2010-RICARD 
+Last year = 2010 , last catch = 744495 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1951  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 4756979 - 2.38e+08 
+First MSY = 2212653 
+First r = 0.27 
+New upper bound for r = 1.1 
+New range for k = 12276828 - 36734488 
+Possible combinations =  983 
+geom. mean r = 0.3 
+r +/- 2 SD = 0.186 - 0.484 
+geom. mean k = 30605046 
+k +/- 2 SD = 22117128 - 42350383 
+geom. mean MSY = 2293392 
+MSY +/- 2 SD = 1959420 - 2684286 
+
+ Stock SWFSC-CMACKPCOAST-1929-2008-PINSKY 
+Last year = 2008 , last catch = 13743.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1930  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 71551 - 3577530 
+First MSY = 31020 
+First r = 0.26 
+New upper bound for r = 0.62 
+New range for k = 270028 - 524030 
+Possible combinations =  1424 
+geom. mean r = 0.284 
+r +/- 2 SD = 0.192 - 0.42 
+geom. mean k = 451069 
+k +/- 2 SD = 350032 - 581271 
+geom. mean MSY = 32010 
+MSY +/- 2 SD = 27833 - 36814 
+
+ Stock SWFSC-DSOLEPCOAST-1910-2005-STANTON 
+Last year = 2004 , last catch = 7145.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 25019 - 1250965 
+First MSY = 14649 
+First r = 0.272 
+New upper bound for r = 0.8 
+New range for k = 97379 - 247265 
+Possible combinations =  965 
+geom. mean r = 0.295 
+r +/- 2 SD = 0.187 - 0.463 
+geom. mean k = 203724 
+k +/- 2 SD = 145907 - 284451 
+geom. mean MSY = 15002 
+MSY +/- 2 SD = 13296 - 16926 
+
+ Stock SWFSC-GOPHERSPCOAST-1965-2005-STANTON 
+Last year = 2004 , last catch = 50.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1966  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 209 - 10430 
+First MSY = 94.8 
+First r = 0.311 
+New upper bound for r = 1.2 
+New range for k = 502 - 1423 
+Possible combinations =  3960 
+geom. mean r = 0.361 
+r +/- 2 SD = 0.193 - 0.676 
+geom. mean k = 1099 
+k +/- 2 SD = 726 - 1663 
+geom. mean MSY = 99.2 
+MSY +/- 2 SD = 79.4 - 124 

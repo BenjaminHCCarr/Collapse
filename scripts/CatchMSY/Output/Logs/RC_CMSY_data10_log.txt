@@ -1,0 +1,412 @@
+
+ File ../Input/RC_CMSY_data10.csv read successfully 
+
+ Stock NMFS-MENATLAN-1940-2005-STANTON 
+Last year = 2005 , last catch = 185100 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1941  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 712100 - 35605000 
+First MSY = 365961 
+First r = 0.231 
+New upper bound for r = 0.38 
+New range for k = 4489797 - 6447808 
+Possible combinations =  2399 
+geom. mean r = 0.255 
+r +/- 2 SD = 0.206 - 0.316 
+geom. mean k = 5856585 
+k +/- 2 SD = 5008977 - 6847623 
+geom. mean MSY = 373626 
+MSY +/- 2 SD = 350292 - 398515 
+
+ Stock NWFSC-ARFLOUNDPCOAST-1916-2007-BRANCH 
+Last year = 2007 , last catch = 2381 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1917  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 7802 - 390100 
+First MSY = 3896 
+First r = 0.282 
+New upper bound for r = 1.1 
+New range for k = 20031 - 64870 
+Possible combinations =  1368 
+geom. mean r = 0.316 
+r +/- 2 SD = 0.186 - 0.539 
+geom. mean k = 50572 
+k +/- 2 SD = 33502 - 76339 
+geom. mean MSY = 4001 
+MSY +/- 2 SD = 3537 - 4527 
+
+ Stock NWFSC-BGROCKPCOAST-1950-2005-STANTON 
+Last year = 2004 , last catch = 162 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1031 - 51550 
+First MSY = 435 
+First r = 0.284 
+New upper bound for r = 1.2 
+New range for k = 2316 - 6559 
+Possible combinations =  3363 
+geom. mean r = 0.335 
+r +/- 2 SD = 0.207 - 0.543 
+geom. mean k = 5436 
+k +/- 2 SD = 3967 - 7448 
+geom. mean MSY = 455 
+MSY +/- 2 SD = 377 - 549 
+
+ Stock NWFSC-BLACKROCKNPCOAST-1914-2006-BRANCH 
+Last year = 2006 , last catch = 323.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1916  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 704 - 35195 
+First MSY = 393 
+First r = 0.268 
+New upper bound for r = 0.82 
+New range for k = 2706 - 6630 
+Possible combinations =  1049 
+geom. mean r = 0.288 
+r +/- 2 SD = 0.186 - 0.446 
+geom. mean k = 5583 
+k +/- 2 SD = 4125 - 7558 
+geom. mean MSY = 402 
+MSY +/- 2 SD = 351 - 461 
+
+ Stock NWFSC-BLACKROCKSPCOAST-1915-2007-BRANCH 
+Last year = 2006 , last catch = 627.2 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1916  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1455 - 72765 
+First MSY = 762 
+First r = 0.279 
+New upper bound for r = 1 
+New range for k = 4041 - 12599 
+Possible combinations =  1421 
+geom. mean r = 0.309 
+r +/- 2 SD = 0.191 - 0.5 
+geom. mean k = 10110 
+k +/- 2 SD = 6977 - 14648 
+geom. mean MSY = 781 
+MSY +/- 2 SD = 695 - 877 
+
+ Stock NWFSC-BLUEROCKCAL-1916-2007-BRANCH 
+Last year = 2007 , last catch = 263.1 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1917  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 866 - 43280 
+First MSY = 421 
+First r = 0.244 
+New upper bound for r = 0.55 
+New range for k = 4082 - 7414 
+Possible combinations =  553 
+geom. mean r = 0.263 
+r +/- 2 SD = 0.192 - 0.361 
+geom. mean k = 6575 
+k +/- 2 SD = 5362 - 8063 
+geom. mean MSY = 433 
+MSY +/- 2 SD = 386 - 484 
+
+ Stock NWFSC-BOCACCSPCOAST-1951-2006-BRANCH 
+Last year = 2006 , last catch = 67 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1952  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 8494 - 424700 
+First MSY = 3456 
+First r = 0.242 
+New upper bound for r = 0.55 
+New range for k = 33128 - 60903 
+Possible combinations =  1039 
+geom. mean r = 0.261 
+r +/- 2 SD = 0.196 - 0.346 
+geom. mean k = 54227 
+k +/- 2 SD = 44680 - 65815 
+geom. mean MSY = 3536 
+MSY +/- 2 SD = 3229 - 3871 
+
+ Stock NWFSC-CHILISPCOAST-1892-2007-BRANCH 
+Last year = 2006 , last catch = 127 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1893  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3960 - 198000 
+First MSY = 2152 
+First r = 0.266 
+New upper bound for r = 0.86 
+New range for k = 13120 - 37157 
+Possible combinations =  368 
+geom. mean r = 0.281 
+r +/- 2 SD = 0.188 - 0.421 
+geom. mean k = 31172 
+k +/- 2 SD = 22920 - 42394 
+geom. mean MSY = 2190 
+MSY +/- 2 SD = 1986 - 2416 
+
+ Stock NWFSC-COWCODSCAL-1900-2007-BRANCH 
+Last year = 2007 , last catch = 0.5 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1901  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 326 - 16277 
+First MSY = 145 
+First r = 0.232 
+New upper bound for r = 0.36 
+New range for k = 1926 - 2580 
+Possible combinations =  439 
+geom. mean r = 0.254 
+r +/- 2 SD = 0.201 - 0.322 
+geom. mean k = 2369 
+k +/- 2 SD = 2052 - 2736 
+geom. mean MSY = 150 
+MSY +/- 2 SD = 137 - 165 
+
+ Stock NWFSC-CROCKPCOAST-1916-2009-Stachura 
+Last year = 2008 , last catch = 40.5 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1917  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 5544 - 277178 
+First MSY = 2243 
+First r = 0.251 
+New upper bound for r = 0.6 
+New range for k = 20147 - 39187 
+Possible combinations =  360 
+geom. mean r = 0.266 
+r +/- 2 SD = 0.185 - 0.382 
+geom. mean k = 34447 
+k +/- 2 SD = 27145 - 43714 
+geom. mean MSY = 2290 
+MSY +/- 2 SD = 2020 - 2595 
+
+ Stock NWFSC-DKROCKPCOAST-1928-2007-BRANCH 
+Last year = 2006 , last catch = 113 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1929  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 4129 - 206450 
+First MSY = 915 
+First r = 0.255 
+New upper bound for r = 0.62 
+New range for k = 8028 - 15767 
+Possible combinations =  829 
+geom. mean r = 0.28 
+r +/- 2 SD = 0.191 - 0.409 
+geom. mean k = 13497 
+k +/- 2 SD = 10411 - 17497 
+geom. mean MSY = 943 
+MSY +/- 2 SD = 835 - 1065 
+
+ Stock NWFSC-ESOLEPCOAST-1876-2007-BRANCH 
+Last year = 2006 , last catch = 1078 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1877  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 6030 - 301500 
+Too few ( 9 ) possible r-k combinations, check input parameters 
+
+ Stock NWFSC-KELPGREENLINGORECOAST-1979-2005-STANTON 
+Last year = 2004 , last catch = 51.7732 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1981  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 96.7 - 4837 
+First MSY = 45.2 
+First r = 0.417 
+New upper bound for r = 1.2 
+New range for k = 176 - 490 
+Possible combinations =  32139 
+geom. mean r = 0.584 
+r +/- 2 SD = 0.264 - 1.29 
+geom. mean k = 329 
+k +/- 2 SD = 196 - 552 
+geom. mean MSY = 47.9 
+MSY +/- 2 SD = 31.2 - 73.7 
+
+ Stock NWFSC-LNOSESKAPCOAST-1915-2007-BRANCH 
+Last year = 2007 , last catch = 899.223 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1916  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3213 - 160634 
+First MSY = 1029 
+First r = 0.281 
+New upper bound for r = 0.86 
+New range for k = 6801 - 16958 
+Possible combinations =  2479 
+geom. mean r = 0.312 
+r +/- 2 SD = 0.197 - 0.494 
+geom. mean k = 13529 
+k +/- 2 SD = 9647 - 18973 
+geom. mean MSY = 1055 
+MSY +/- 2 SD = 928 - 1199 
+
+ Stock NWFSC-LSTHORNHPCOAST-1962-2005-STANTON 
+Last year = 2004 , last catch = 912 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 6857 - 342850 
+First MSY = 3007 
+First r = 0.3 
+New upper bound for r = 1.2 
+New range for k = 17197 - 44525 
+Possible combinations =  2673 
+geom. mean r = 0.347 
+r +/- 2 SD = 0.19 - 0.634 
+geom. mean k = 36960 
+k +/- 2 SD = 26229 - 52081 
+geom. mean MSY = 3206 
+MSY +/- 2 SD = 2452 - 4193 
+
+ Stock NWFSC-PHAKEPCOAST-1966-2008-BRANCH 
+Last year = 2007 , last catch = 276084 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1967  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 364025 - 18201250 
+First MSY = 289907 
+First r = 0.424 
+New upper bound for r = 1.2 
+New range for k = 987860 - 3876160 
+Possible combinations =  20257 
+geom. mean r = 0.554 
+r +/- 2 SD = 0.234 - 1.31 
+geom. mean k = 2138322 
+k +/- 2 SD = 1012624 - 4515421 
+geom. mean MSY = 296343 
+MSY +/- 2 SD = 232396 - 377886 
+
+ Stock NWFSC-POPERCHPCOAST-1953-2007-BRANCH 
+Last year = 2006 , last catch = 83 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1957  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 18761 - 938050 
+First MSY = 3905 
+First r = 0.231 
+New upper bound for r = 0.38 
+New range for k = 52598 - 68218 
+Possible combinations =  379 
+geom. mean r = 0.247 
+r +/- 2 SD = 0.197 - 0.31 
+geom. mean k = 64554 
+k +/- 2 SD = 59023 - 70603 
+geom. mean MSY = 3990 
+MSY +/- 2 SD = 3420 - 4654 
+
+ Stock NWFSC-PSOLENPCOAST-1910-2005-STANTON 
+Last year = 2004 , last catch = 1838.7 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2923 - 146145 
+First MSY = 1534 
+First r = 0.269 
+New upper bound for r = 0.81 
+New range for k = 9506 - 26048 
+Possible combinations =  2540 
+geom. mean r = 0.299 
+r +/- 2 SD = 0.195 - 0.459 
+geom. mean k = 20753 
+k +/- 2 SD = 14401 - 29909 
+geom. mean MSY = 1551 
+MSY +/- 2 SD = 1437 - 1673 
+
+ Stock NWFSC-PSOLESPCOAST-1874-2005-STANTON 
+Last year = 2004 , last catch = 514.1 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1877  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2366 - 118315 
+First MSY = 1391 
+First r = 0.245 
+New upper bound for r = 0.38 
+New range for k = 16578 - 24795 
+Possible combinations =  271 
+geom. mean r = 0.254 
+r +/- 2 SD = 0.199 - 0.326 
+geom. mean k = 22057 
+k +/- 2 SD = 18118 - 26853 
+geom. mean MSY = 1403 
+MSY +/- 2 SD = 1333 - 1477 
+
+ Stock NWFSC-SABLEFPCOAST-1900-2007-BRANCH 
+Last year = 2007 , last catch = 4629.556 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1901  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 26106 - 1305290 
+First MSY = 10091 
+First r = 0.254 
+New upper bound for r = 0.65 
+New range for k = 85097 - 174101 
+Possible combinations =  659 
+geom. mean r = 0.272 
+r +/- 2 SD = 0.189 - 0.391 
+geom. mean k = 152097 
+k +/- 2 SD = 119396 - 193754 
+geom. mean MSY = 10337 
+MSY +/- 2 SD = 9152 - 11676 

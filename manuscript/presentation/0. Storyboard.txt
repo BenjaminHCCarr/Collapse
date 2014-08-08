@@ -1,0 +1,21 @@
+## One ppt file per slide with the number of the slide as its name
+
+1. Title (Emma)
+2. Fisheries are important (Ingrid)
+3. History of fishing (Ben)
+4. Fisheries are managed. Logistic and derivative graphs (Emma)
+5. We haven't avoided collapses. Example where we see collapse and recovery. Definition of collapse. Examples of other time series (Ben)
+6. Our question: we ask whether top-down processes + direct effects of human impacts might also affect pr(collapse) (Ben)
+7. Workflow (Emma)
+8. Map 1 LMEs only (Annie, Ingrid, Vanessa and Emma)
+9. Map 2 Add points for each stock (Annie, Ingrid, Vanessa and Emma)
+10. Map 3 Color code by chlorophyll value, describe all covariates!
+11. Analysis: hazard model (Edgar)
+12. Fish species are different: ranef (Emma)
+12.5 Parameter posterior distributions (Edgar)
+13. ChlaA is important (Nina, Ingrid)
+14. Trend over time (Nina, Ingrid)
+15. Recap: consider bottom up effects, future plans: extreme events, harvest intensity, recovery (Annie)
+16. Thank you (Annie)
+
+## Ingrid sews the slides together

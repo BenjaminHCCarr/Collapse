@@ -1,0 +1,23 @@
+model {
+beta0~dunif(-10,10)
+beta1~dunif(-5,5)
+beta2~dunif(-5,5)
+beta3~dunif(-5,5)
+beta4~dunif(-5,5)
+beta5~dunif(-5,5)
+beta6~dunif(-5,5)
+yeareff~dunif(-5,5)
+yeareff2~dunif(-5,5)
+sigmaplot~dunif(0,7)
+tauplot<-sqrt(1/(sigmaplot*sigmaplot))
+for(i in 1:112){
+alpha[i]~dnorm(0,tauplot) ###I(-12,12)
+}
+for(i in 1:n.stocks){
+  for(j in (first[i]+1):last[i]){
+     logit(phi[i,j])<-beta0 + yeareff*TIME[i,j] + yeareff2*TIME2[i,j] + beta1*cSOCIO[i] + beta2*cRICHNESS[i] + beta3*cdeltaSST[i] + beta4*cln_PLASTICS[i] + beta5*cln_Chl[i] + beta6*cln_q90[i] + alpha[SPP_CODE[i]]
+      mu[i,j]<-phi[i,j]*y[i,j-1]
+      y[i,j]~dbern(mu[i,j])
+}
+}
+}

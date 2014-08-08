@@ -1,0 +1,50 @@
+data = read.csv("AFSC-ALPLAICBSAI-1972-2008-MELNYCHUK.csv",header = F,sep = " ")
+nobs = data[1,1]
+maxb = data[2,1]
+data1 = data[3:dim(data)[1],]
+landings = data1[,1]
+biomass = data1[,2]
+pobs = vector(length = nobs-1)
+for(i in 1:(nobs-1))
+	pobs[i] = biomass[i+1]-biomass[i]+landings[i]
+lnk = log(max(biomass))
+lnmsy = log(0.6*max(pobs))
+n = 2
+
+mfexp = function(x) 
+	{
+	b = 60;
+	mfexp = 0;
+	mfexp = ifelse(x<=b & x>=-b,exp(x),ifelse(x>b,exp(b)*(1+2*(x-b))/(1+x-b),exp(-b)*(1-x-b)/(1+2*(-x-b))));
+	}
+
+shaffer = function(par)
+	{
+	nobs = data[1,1]
+	maxb = data[2,1]
+	data1 = data[3:dim(data)[1],]
+	landings = data1[,1]
+	biomass = data1[,2]
+	pobs = vector(length = nobs-1)
+	for(i in 1:(nobs-1))
+		pobs[i] = biomass[i+1]-biomass[i]+landings[i]
+	biomass = data1[,2]	
+	ppred = vector(length = nobs-1)
+	k = mfexp(par[1])
+	msy = mfexp(par[2])
+	z = (1/(par[3]-1))*par[3]^(par[3]/(par[3]-1))
+	zmsy = z*msy
+	meanp = mean(pobs)
+	for(j in 1:(nobs-1))
+		ppred[j] = zmsy*(biomass[j]/k-(biomass[j]/k)^par[3])
+	epsilon = pobs-ppred
+	sig = sqrt(sum(epsilon^2)/(nobs-1))
+	bmsy = par[3]^(1/(1-par[3]))*k
+	fmsy = msy/bmsy
+	sum(dnorm(epsilon,sig))
+	}
+
+optim(c(lnk,lnmsy,n),shaffer,lower = c(-1000,-100000,0.1),upper = c(maxb,100000,30),method = "L-BFGS-B")
+	
+
+

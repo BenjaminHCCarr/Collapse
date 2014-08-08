@@ -1,0 +1,67 @@
+LME_NUMBER,LME_NAME,DO_AVG,DO_VAR,NUM_obs_DO
+1,East Bering Sea,0.797,0.020646,8
+2,Gulf of Alaska,0.7315,0.07904075,8
+3,California Current,0.402,0.0253782,10
+4,Gulf of California,0.43,0,1
+5,Gulf of Mexico,0.47675,0.039629688,4
+6,Southeast U.S. Continental Shelf,0.465,0,1
+7,Northeast U.S. Continental Shelf,0.891,0,1
+8,Scotian Shelf,1.234,0,1
+9,Labrador - Newfoundland,0.878,0.0295925,4
+10,Insular Pacific-Hawaiian,0.243666667,0.002914889,3
+11,Pacific Central-American Coastal,0.2895,0.008111917,6
+12,Caribbean Sea,0.296166667,0.017256139,12
+13,Humboldt Current,0.7581,0.10217589,10
+14,Patagonian Shelf,0.45975,0.011219188,4
+15,South Brazil Shelf,0.424,0,1
+16,East Brazil Shelf,0.1555,0.00013125,4
+17,North Brazil Shelf,0.20175,0.000765688,4
+18,Canadian Eastern Arctic - West Greenland,0.644769231,0.072410485,13
+19,Greenland Sea,0.631307692,0.013280982,13
+20,Barents Sea,0.564121212,0.03480344,33
+21,Norwegian Sea,0.425555556,0.005824025,9
+22,North Sea,0.910333333,0.062628222,3
+23,Baltic Sea,1.191,0,1
+24,Celtic-Biscay Shelf,0.41875,0.003687688,4
+25,Iberian Coastal,na,na,0
+26,Mediterranean Sea,0.516777778,0.003019284,9
+27,Canary Current,0.5666,0.05815624,5
+28,Guinea Current,0.283285714,0.003416204,7
+29,Benguela Current,0.7984,0.05098944,5
+30,Agulhas Current,0.22,0.003035429,7
+31,Somali Coastal Current,0.230333333,0.000637556,3
+32,Arabian Sea,0.3182,0.014098827,15
+33,Red Sea,0.324,0,1
+34,Bay of Bengal,0.246636364,0.011521504,11
+35,Gulf of Thailand,0.244,0,1
+36,South China Sea,0.285444444,0.003016025,9
+37,Sulu-Celebes Sea,0.1948,0.00368776,5
+38,Indonesian Sea,0.239,0.00532825,8
+39,North Australian Shelf,0.2485,0.01177225,2
+40,Northeast Australian Shelf,0.21375,0.001371688,4
+41,East Central Australian Shelf,0.327,0,1
+42,Southeast Australian Shelf,0.285,0.0029588,5
+43,South West Australian Shelf,0.26025,0.000582688,4
+44,West Central Australian Shelf,0.195666667,0.0000109,3
+45,Northwest Australian Shelf,0.1595,0.00081225,2
+46,New Zealand Shelf,0.3206,0.01481304,5
+47,East China Sea,0.57675,0.026785688,4
+48,Yellow Sea,0.908,0,1
+49,Kuroshio Current,0.458,0.057081667,6
+50,Sea of Japan,0.90525,0.044428188,4
+51,Oyashio Current,0.866,0.022201,2
+52,Sea of Okhotsk,0.869666667,0.004033889,6
+53,West Bering Sea,0.732333333,0.008256889,3
+54,Northern Bering - Chukchi Seas,0.645266667,0.112869129,15
+55,Beaufort Sea,0.524571429,0.062774531,7
+56,East Siberian Sea,0.53125,0.185270438,8
+57,Laptev Sea,0.429,0.027420167,12
+58,Kara Sea,0.472266667,0.034911262,15
+59,Iceland Shelf and Sea,0.737,0.002304,2
+60,Faroe Plateau,0.481,0,1
+61,Antarctica,0.457764706,0.045855533,34
+62,Black Sea,0.8675,0.00000225,2
+63,Hudson Bay Complex,0.606833333,0.012716472,6
+64,Central Arctic,0.196782609,0.047892779,69
+65,Aleutian Islands,0.566666667,0.004350889,3
+66,Canadian High Arctic - North Greenland,0.2471,0.06912289,10

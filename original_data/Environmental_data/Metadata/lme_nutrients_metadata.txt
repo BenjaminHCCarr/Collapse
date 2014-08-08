@@ -1,0 +1,23 @@
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from http://onesharedocean.org/public_store/lmes_nutrients/LME_NEWSRH2000_Nutrients_and_ICEP.csv
+on 08/01/2014
+
+
+"lme_nutrients.csv" contains 
+
+A comma separated data file, with 1 line per Large Marine Ecosystem (LME).
+For each line:
+LME number: the LME code number, from 1 to 66
+DIN: (Tg/year)
+DON: (Tg/year)
+PN: (Tg/year)
+DIP: (Tg/year)
+DOP: (Tg/year)
+PP: (Tg/year)
+Dis-SI: (Tg/year)
+N:P molar ratio: 
+
+
+Citation:
+Fekete, B. M., D. Wisser, C. Kroeze, E. Mayorga, L. Bouwman, W. M. Wollheim, and C. Vörösmarty (2010), Millennium Ecosystem Assessment scenario drivers (1970–2050): Climate and hydrological alterations, Global Biogeochem. Cycles, 24, GB0A12, doi:10.1029/2009GB003593.

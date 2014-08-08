@@ -1,0 +1,422 @@
+
+ File ../Input/RC_CMSY_data3.csv read successfully 
+
+ Stock AFWG-POLLNEAR-1957-2006-MINTO 
+Last year = 2006 , last catch = 212480 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 274121 - 13706050 
+First MSY = 181269 
+First r = 0.386 
+New upper bound for r = 1.2 
+New range for k = 721252 - 2648841 
+Possible combinations =  10135 
+geom. mean r = 0.491 
+r +/- 2 SD = 0.198 - 1.21 
+geom. mean k = 1522273 
+k +/- 2 SD = 723868 - 3201297 
+geom. mean MSY = 186821 
+MSY +/- 2 SD = 154054 - 226557 
+
+ Stock ASMFC-ATLCROAKMATLC-1973-2002-STANTON 
+Last year = 2002 , last catch = 16311 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1974  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 19289 - 964450 
+First MSY = 13569 
+First r = 0.424 
+New upper bound for r = 1.2 
+New range for k = 49510 - 154634 
+Possible combinations =  29994 
+geom. mean r = 0.579 
+r +/- 2 SD = 0.258 - 1.3 
+geom. mean k = 98035 
+k +/- 2 SD = 54468 - 176451 
+geom. mean MSY = 14186 
+MSY +/- 2 SD = 9631 - 20897 
+
+ Stock ASMFC-LOBSTERGB-1981-2007-STANTON 
+Last year = 2007 , last catch = 2064 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2394 - 119700 
+First MSY = 1772 
+First r = 0.432 
+New upper bound for r = 1.2 
+New range for k = 6065 - 21685 
+Possible combinations =  27939 
+geom. mean r = 0.578 
+r +/- 2 SD = 0.252 - 1.33 
+geom. mean k = 12637 
+k +/- 2 SD = 6503 - 24559 
+geom. mean MSY = 1827 
+MSY +/- 2 SD = 1301 - 2566 
+
+ Stock ASMFC-LOBSTERGOM-1981-2007-STANTON 
+Last year = 2007 , last catch = 32700 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 37297 - 1864850 
+First MSY = 30154 
+First r = 0.418 
+New upper bound for r = 1.2 
+New range for k = 104731 - 361921 
+Possible combinations =  24823 
+geom. mean r = 0.571 
+r +/- 2 SD = 0.252 - 1.29 
+geom. mean k = 217961 
+k +/- 2 SD = 112699 - 421537 
+geom. mean MSY = 31098 
+MSY +/- 2 SD = 22754 - 42502 
+
+ Stock ASMFC-LOBSTERSNE-1981-2007-STANTON 
+Last year = 2007 , last catch = 2435 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 9935 - 496750 
+First MSY = 5096 
+First r = 0.284 
+New upper bound for r = 1.2 
+New range for k = 26220 - 78196 
+Possible combinations =  3181 
+geom. mean r = 0.338 
+r +/- 2 SD = 0.193 - 0.59 
+geom. mean k = 62872 
+k +/- 2 SD = 42601 - 92790 
+geom. mean MSY = 5310 
+MSY +/- 2 SD = 4417 - 6384 
+
+ Stock ASMFC-PANDALGOM-1960-2009-IDOINE 
+Last year = 2008 , last catch = 4783.5 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 12824 - 641195 
+First MSY = 4077 
+First r = 0.236 
+New upper bound for r = 0.47 
+New range for k = 48111 - 69132 
+Possible combinations =  3278 
+geom. mean r = 0.266 
+r +/- 2 SD = 0.209 - 0.338 
+geom. mean k = 64220 
+k +/- 2 SD = 56955 - 72413 
+geom. mean MSY = 4266 
+MSY +/- 2 SD = 3757 - 4845 
+
+ Stock CCAMLR-ATOOTHFISHRS-1995-2007-JENSEN 
+Last year = 2007 , last catch = 3083.86 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1996  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3207 - 160349 
+First MSY = 1953 
+First r = 0.407 
+New upper bound for r = 1.2 
+New range for k = 7663 - 17362 
+Possible combinations =  32505 
+geom. mean r = 0.623 
+r +/- 2 SD = 0.305 - 1.27 
+geom. mean k = 13531 
+k +/- 2 SD = 9536 - 19200 
+geom. mean MSY = 2107 
+MSY +/- 2 SD = 1223 - 3629 
+
+ Stock CCSBT-SC-SBT-1931-2009-Parma 
+Last year = 2009 , last catch = 11047.63 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1932  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 85356 - 4267788 
+First MSY = 34101 
+First r = 0.221 
+New upper bound for r = 0.34 
+New range for k = 472267 - 624812 
+Possible combinations =  271 
+geom. mean r = 0.247 
+r +/- 2 SD = 0.2 - 0.306 
+geom. mean k = 575069 
+k +/- 2 SD = 500657 - 660541 
+geom. mean MSY = 35517 
+MSY +/- 2 SD = 32975 - 38255 
+
+ Stock CSIRO-BIGHTREDSE-1958-2007-FULTON 
+Last year = 2006 , last catch = 1023.91 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1959  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1024 - 51195 
+First MSY = 626 
+First r = 0.429 
+New upper bound for r = 1.2 
+New range for k = 2401 - 6035 
+Possible combinations =  31772 
+geom. mean r = 0.583 
+r +/- 2 SD = 0.29 - 1.17 
+geom. mean k = 4527 
+k +/- 2 SD = 3070 - 6676 
+geom. mean MSY = 660 
+MSY +/- 2 SD = 398 - 1095 
+
+ Stock CSIRO-BTSHRIMPNAUST-1970-2006-FULTON 
+Last year = 2006 , last catch = 550 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1971  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3051 - 152550 
+First MSY = 1417 
+First r = 0.263 
+New upper bound for r = 0.9 
+New range for k = 9318 - 23271 
+Possible combinations =  2199 
+geom. mean r = 0.297 
+r +/- 2 SD = 0.198 - 0.445 
+geom. mean k = 19760 
+k +/- 2 SD = 14984 - 26058 
+geom. mean MSY = 1465 
+MSY +/- 2 SD = 1278 - 1680 
+
+ Stock CSIRO-DEEPFLATHEADSE-1978-2007-FULTON 
+Last year = 2006 , last catch = 1039.69 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2482 - 124105 
+First MSY = 1009 
+First r = 0.398 
+New upper bound for r = 1.2 
+New range for k = 4914 - 12361 
+Possible combinations =  14663 
+geom. mean r = 0.491 
+r +/- 2 SD = 0.234 - 1.03 
+geom. mean k = 8885 
+k +/- 2 SD = 5736 - 13763 
+geom. mean MSY = 1091 
+MSY +/- 2 SD = 774 - 1537 
+
+ Stock CSIRO-GEMFISHSE-1966-2007-FULTON 
+Last year = 2007 , last catch = 102 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1967  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 6672 - 333600 
+First MSY = 2609 
+First r = 0.245 
+New upper bound for r = 0.59 
+New range for k = 25396 - 44024 
+Possible combinations =  1604 
+geom. mean r = 0.276 
+r +/- 2 SD = 0.199 - 0.382 
+geom. mean k = 39715 
+k +/- 2 SD = 32931 - 47898 
+geom. mean MSY = 2737 
+MSY +/- 2 SD = 2375 - 3154 
+
+ Stock CSIRO-GTPRAWNNAUST-1970-2006-FULTON 
+Last year = 2006 , last catch = 1306 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1971  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2699 - 134950 
+First MSY = 1536 
+First r = 0.275 
+New upper bound for r = 1 
+New range for k = 8234 - 25231 
+Possible combinations =  2098 
+geom. mean r = 0.308 
+r +/- 2 SD = 0.194 - 0.487 
+geom. mean k = 20386 
+k +/- 2 SD = 14354 - 28953 
+geom. mean MSY = 1568 
+MSY +/- 2 SD = 1393 - 1765 
+
+ Stock CSIRO-MORWONGSE-1913-2007-FULTON 
+Last year = 2007 , last catch = 396 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1914  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2709 - 135450 
+First MSY = 1494 
+First r = 0.258 
+New upper bound for r = 0.58 
+New range for k = 12293 - 26448 
+Possible combinations =  121 
+geom. mean r = 0.265 
+r +/- 2 SD = 0.19 - 0.371 
+geom. mean k = 22695 
+k +/- 2 SD = 17225 - 29903 
+geom. mean MSY = 1506 
+MSY +/- 2 SD = 1419 - 1597 
+
+ Stock CSIRO-NZLINGESE-1968-2007-FULTON 
+Last year = 2007 , last catch = 736 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1969  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1287 - 64355 
+First MSY = 874 
+First r = 0.349 
+New upper bound for r = 1.2 
+New range for k = 3495 - 12041 
+Possible combinations =  11033 
+geom. mean r = 0.433 
+r +/- 2 SD = 0.219 - 0.856 
+geom. mean k = 8186 
+k +/- 2 SD = 4634 - 14462 
+geom. mean MSY = 886 
+MSY +/- 2 SD = 728 - 1077 
+
+ Stock CSIRO-NZLINGWSE-1968-2007-FULTON 
+Last year = 2007 , last catch = 465 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1969  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 922 - 46100 
+First MSY = 650 
+First r = 0.353 
+New upper bound for r = 1.2 
+New range for k = 2630 - 8572 
+Possible combinations =  12774 
+geom. mean r = 0.445 
+r +/- 2 SD = 0.222 - 0.892 
+geom. mean k = 5943 
+k +/- 2 SD = 3448 - 10242 
+geom. mean MSY = 661 
+MSY +/- 2 SD = 521 - 839 
+
+ Stock CSIRO-OROUGHYCASCADE-1987-2006-FULTON 
+Last year = 2006 , last catch = 800 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1988  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1858 - 92900 
+First MSY = 919 
+First r = 0.353 
+New upper bound for r = 1.2 
+New range for k = 4661 - 11589 
+Possible combinations =  10369 
+geom. mean r = 0.453 
+r +/- 2 SD = 0.223 - 0.921 
+geom. mean k = 8861 
+k +/- 2 SD = 5884 - 13344 
+geom. mean MSY = 1003 
+MSY +/- 2 SD = 719 - 1399 
+
+ Stock CSIRO-OROUGHYSE-1978-2007-FULTON 
+Last year = 2006 , last catch = 772 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 34502 - 1725100 
+First MSY = 6959 
+First r = 0.251 
+New upper bound for r = 0.8 
+New range for k = 73171 - 110934 
+Possible combinations =  2702 
+geom. mean r = 0.299 
+r +/- 2 SD = 0.203 - 0.44 
+geom. mean k = 104207 
+k +/- 2 SD = 93289 - 116402 
+geom. mean MSY = 7789 
+MSY +/- 2 SD = 5893 - 10293 
+
+ Stock CSIRO-PTOOTHFISHMI-1975-2010-FAY 
+Last year = 2009 , last catch = 68.71896 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1976  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 926 - 46302 
+First MSY = 155 
+First r = 0.278 
+New upper bound for r = 0.96 
+New range for k = 1356 - 2289 
+Possible combinations =  5515 
+geom. mean r = 0.333 
+r +/- 2 SD = 0.209 - 0.531 
+geom. mean k = 2040 
+k +/- 2 SD = 1710 - 2434 
+geom. mean MSY = 170 
+MSY +/- 2 SD = 126 - 229 
+
+ Stock CSIRO-SILVERFISHSE-1978-2006-FULTON 
+Last year = 2006 , last catch = 2585.3 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 4460 - 223011 
+First MSY = 2873 
+First r = 0.392 
+New upper bound for r = 1.2 
+New range for k = 10789 - 35375 
+Possible combinations =  19964 
+geom. mean r = 0.528 
+r +/- 2 SD = 0.237 - 1.17 
+geom. mean k = 22437 
+k +/- 2 SD = 11903 - 42292 
+geom. mean MSY = 2961 
+MSY +/- 2 SD = 2231 - 3932 

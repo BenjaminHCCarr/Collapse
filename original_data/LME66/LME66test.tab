@@ -1,0 +1,12 @@
+!table
+!version 450
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 5
+    OBJECTID Integer (9) ;
+    LME_NUMBER Decimal (19,11) ;
+    LME_NAME Char (70) ;
+    Shape_Leng Decimal (19,11) ;
+    Shape_Area Decimal (19,11) ;

@@ -1,0 +1,422 @@
+
+ File ../Input/RC_CMSY_data11.csv read successfully 
+
+ Stock NWFSC-SSTHORNHPCOAST-1901-2005-STANTON 
+Last year = 2004 , last catch = 705 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1963  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 4902 - 245100 
+First MSY = 2112 
+First r = 0.269 
+New upper bound for r = 1.2 
+New range for k = 11601 - 34743 
+Possible combinations =  1204 
+geom. mean r = 0.309 
+r +/- 2 SD = 0.183 - 0.524 
+geom. mean k = 28620 
+k +/- 2 SD = 20174 - 40602 
+geom. mean MSY = 2212 
+MSY +/- 2 SD = 1848 - 2649 
+
+ Stock NWFSC-WROCKPCOAST-1955-2006-BRANCH 
+Last year = 2006 , last catch = 281 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1959  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 27005 - 1350250 
+First MSY = 7696 
+First r = 0.243 
+New upper bound for r = 0.5 
+New range for k = 85855 - 132534 
+Possible combinations =  1325 
+geom. mean r = 0.269 
+r +/- 2 SD = 0.191 - 0.378 
+geom. mean k = 120248 
+k +/- 2 SD = 101031 - 143121 
+geom. mean MSY = 8073 
+MSY +/- 2 SD = 6815 - 9563 
+
+ Stock NWFSC-YEYEROCKPCOAST-1923-2006-BRANCH 
+Last year = 2006 , last catch = 14.4 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1924  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 460 - 23000 
+First MSY = 222 
+First r = 0.265 
+New upper bound for r = 0.75 
+New range for k = 1625 - 3782 
+Possible combinations =  675 
+geom. mean r = 0.285 
+r +/- 2 SD = 0.186 - 0.438 
+geom. mean k = 3205 
+k +/- 2 SD = 2393 - 4295 
+geom. mean MSY = 229 
+MSY +/- 2 SD = 199 - 262 
+
+ Stock NWFSC-YTROCKNPCOAST-1967-2005-STANTON 
+Last year = 2005 , last catch = 1613.5 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1968  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 9784 - 489185 
+First MSY = 5203 
+First r = 0.259 
+New upper bound for r = 0.96 
+New range for k = 31382 - 86431 
+Possible combinations =  1372 
+geom. mean r = 0.293 
+r +/- 2 SD = 0.197 - 0.436 
+geom. mean k = 73258 
+k +/- 2 SD = 55055 - 97479 
+geom. mean MSY = 5368 
+MSY +/- 2 SD = 4777 - 6032 
+
+ Stock NWWG-CAPEICE-1977-2007-MINTO 
+Last year = 2007 , last catch = 4e+05 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 1571000 - 78550000 
+First MSY = 888236 
+First r = 0.302 
+New upper bound for r = 1.2 
+New range for k = 3591006 - 13523541 
+Possible combinations =  5029 
+geom. mean r = 0.369 
+r +/- 2 SD = 0.193 - 0.707 
+geom. mean k = 9551771 
+k +/- 2 SD = 5403259 - 16885427 
+geom. mean MSY = 881026 
+MSY +/- 2 SD = 762314 - 1018223 
+
+ Stock NWWG-CODFAPL-1959-2006-MINTO 
+Last year = 2006 , last catch = 10446 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1962  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 40422 - 2021100 
+First MSY = 24881 
+First r = 0.266 
+New upper bound for r = 1 
+New range for k = 117465 - 411697 
+Possible combinations =  1555 
+geom. mean r = 0.309 
+r +/- 2 SD = 0.187 - 0.513 
+geom. mean k = 320069 
+k +/- 2 SD = 203390 - 503684 
+geom. mean MSY = 24759 
+MSY +/- 2 SD = 22367 - 27408 
+
+ Stock NWWG-CODICE-1952-2006-MINTO 
+Last year = 2006 , last catch = 196000 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1956  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 538000 - 26900000 
+First MSY = 389011 
+First r = 0.233 
+New upper bound for r = 0.42 
+New range for k = 4018785 - 6507632 
+Possible combinations =  873 
+geom. mean r = 0.265 
+r +/- 2 SD = 0.204 - 0.344 
+geom. mean k = 5734119 
+k +/- 2 SD = 4611374 - 7130221 
+geom. mean MSY = 379706 
+MSY +/- 2 SD = 337753 - 426869 
+
+ Stock NWWG-HADFAPL-1955-2006-MINTO 
+Last year = 2006 , last catch = 16848 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1958  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 27571 - 1378550 
+First MSY = 20964 
+First r = 0.413 
+New upper bound for r = 1.2 
+New range for k = 75965 - 310680 
+Possible combinations =  11689 
+geom. mean r = 0.511 
+r +/- 2 SD = 0.212 - 1.23 
+geom. mean k = 166051 
+k +/- 2 SD = 75701 - 364236 
+geom. mean MSY = 21214 
+MSY +/- 2 SD = 18146 - 24802 
+
+ Stock NWWG-HADICE-1977-2007-MINTO 
+Last year = 2007 , last catch = 105012 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1980  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 105012 - 5250600 
+First MSY = 74952 
+First r = 0.441 
+New upper bound for r = 1.2 
+New range for k = 256410 - 918294 
+Possible combinations =  32774 
+geom. mean r = 0.581 
+r +/- 2 SD = 0.253 - 1.33 
+geom. mean k = 533903 
+k +/- 2 SD = 281999 - 1010830 
+geom. mean MSY = 77511 
+MSY +/- 2 SD = 51971 - 115601 
+
+ Stock NWWG-POLLFAPL-1958-2006-MINTO 
+Last year = 2006 , last catch = 62539 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1962  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 67972 - 3398600 
+First MSY = 48523 
+First r = 0.447 
+New upper bound for r = 1.2 
+New range for k = 162573 - 623350 
+Possible combinations =  27892 
+geom. mean r = 0.582 
+r +/- 2 SD = 0.251 - 1.35 
+geom. mean k = 345318 
+k +/- 2 SD = 172345 - 691895 
+geom. mean MSY = 50286 
+MSY +/- 2 SD = 36038 - 70166 
+
+ Stock NZMFishDEEPWATER-BLACKOREOWECR-1973-2007-JENSEN 
+Last year = 2007 , last catch = 1766.66 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1974  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 12638 - 631915 
+First MSY = 4111 
+First r = 0.253 
+New upper bound for r = 0.7 
+New range for k = 33809 - 66083 
+Possible combinations =  3669 
+geom. mean r = 0.296 
+r +/- 2 SD = 0.205 - 0.425 
+geom. mean k = 57598 
+k +/- 2 SD = 45747 - 72520 
+geom. mean MSY = 4256 
+MSY +/- 2 SD = 3646 - 4967 
+
+ Stock NZMFishDEEPWATER-SMOOTHOREOCR-1979-2006-JENSEN 
+Last year = 2006 , last catch = 5946 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1980  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 7771 - 388550 
+First MSY = 5995 
+First r = 0.382 
+New upper bound for r = 1.2 
+New range for k = 21848 - 82490 
+Possible combinations =  13941 
+geom. mean r = 0.504 
+r +/- 2 SD = 0.216 - 1.18 
+geom. mean k = 48040 
+k +/- 2 SD = 22723 - 101564 
+geom. mean MSY = 6059 
+MSY +/- 2 SD = 5018 - 7316 
+
+ Stock NZMFishDEEPWATER-SMOOTHOREOWECR-1973-2004-JENSEN 
+Last year = 2004 , last catch = 1410 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1974  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 6960 - 348000 
+First MSY = 3516 
+First r = 0.28 
+New upper bound for r = 1.1 
+New range for k = 18635 - 55554 
+Possible combinations =  3066 
+geom. mean r = 0.324 
+r +/- 2 SD = 0.201 - 0.524 
+geom. mean k = 44715 
+k +/- 2 SD = 31477 - 63519 
+geom. mean MSY = 3625 
+MSY +/- 2 SD = 3135 - 4192 
+
+ Stock NZMFishHOKIWG-HOKIENZ-1972-2007-FRANCIS 
+Last year = 2007 , last catch = 48088 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1973  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 101504 - 5075200 
+First MSY = 54908 
+First r = 0.327 
+New upper bound for r = 1.2 
+New range for k = 275036 - 780106 
+Possible combinations =  5084 
+geom. mean r = 0.395 
+r +/- 2 SD = 0.197 - 0.79 
+geom. mean k = 593994 
+k +/- 2 SD = 375598 - 939379 
+geom. mean MSY = 58656 
+MSY +/- 2 SD = 45611 - 75432 
+
+ Stock NZMFishHOKIWG-HOKIWNZ-1972-2007-FRANCIS 
+Last year = 2007 , last catch = 57712 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1973  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 245304 - 12265200 
+First MSY = 106331 
+First r = 0.282 
+New upper bound for r = 1.2 
+New range for k = 556162 - 1688657 
+Possible combinations =  2115 
+geom. mean r = 0.327 
+r +/- 2 SD = 0.19 - 0.563 
+geom. mean k = 1363374 
+k +/- 2 SD = 942255 - 1972702 
+geom. mean MSY = 111404 
+MSY +/- 2 SD = 92956 - 133513 
+
+ Stock NZMFishINSHOREWG-NZSNAPNZ8-1931-2005-JENSEN 
+Last year = 2005 , last catch = 1950 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1932  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 9376 - 468813 
+First MSY = 3802 
+First r = 0.236 
+New upper bound for r = 0.38 
+New range for k = 48648 - 67384 
+Possible combinations =  690 
+geom. mean r = 0.256 
+r +/- 2 SD = 0.199 - 0.329 
+geom. mean k = 61342 
+k +/- 2 SD = 52532 - 71630 
+geom. mean MSY = 3925 
+MSY +/- 2 SD = 3560 - 4327 
+
+ Stock NZMFishINSHOREWG-TREVALLYTRE7-1944-2005-JENSEN 
+Last year = 2005 , last catch = 2454 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1945  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3495 - 174750 
+First MSY = 2490 
+First r = 0.385 
+New upper bound for r = 1.2 
+New range for k = 9436 - 37038 
+Possible combinations =  10007 
+geom. mean r = 0.47 
+r +/- 2 SD = 0.202 - 1.09 
+geom. mean k = 21425 
+k +/- 2 SD = 10082 - 45530 
+geom. mean MSY = 2516 
+MSY +/- 2 SD = 2171 - 2917 
+
+ Stock NZMFishLOBSTERWG-RROCKLOBSTERCRA1-1945-2001-JENSEN 
+Last year = 2001 , last catch = 258.44 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1946  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 447 - 22358 
+First MSY = 264 
+First r = 0.361 
+New upper bound for r = 1.2 
+New range for k = 1088 - 3978 
+Possible combinations =  8644 
+geom. mean r = 0.425 
+r +/- 2 SD = 0.205 - 0.882 
+geom. mean k = 2508 
+k +/- 2 SD = 1335 - 4712 
+geom. mean MSY = 267 
+MSY +/- 2 SD = 230 - 309 
+
+ Stock NZMFishLOBSTERWG-RROCKLOBSTERCRA2-1945-2001-JENSEN 
+Last year = 2001 , last catch = 440.61 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1946  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 629 - 31460 
+First MSY = 452 
+First r = 0.416 
+New upper bound for r = 1.2 
+New range for k = 1578 - 6686 
+Possible combinations =  13989 
+geom. mean r = 0.518 
+r +/- 2 SD = 0.215 - 1.25 
+geom. mean k = 3517 
+k +/- 2 SD = 1565 - 7906 
+geom. mean MSY = 456 
+MSY +/- 2 SD = 387 - 537 
+
+ Stock NZMFishLOBSTERWG-RROCKLOBSTERCRA3-1945-2007-JENSEN 
+Last year = 2007 , last catch = 296.44 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1946  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 929 - 46444 
+First MSY = 444 
+First r = 0.257 
+New upper bound for r = 0.76 
+New range for k = 3362 - 7586 
+Possible combinations =  988 
+geom. mean r = 0.281 
+r +/- 2 SD = 0.189 - 0.42 
+geom. mean k = 6498 
+k +/- 2 SD = 4968 - 8499 
+geom. mean MSY = 457 
+MSY +/- 2 SD = 400 - 522 

@@ -1,0 +1,5 @@
+ The logarithm of the determinant of the hessian = 7.47984
+ index   name     value      std.dev       1       2       3   
+     1   lnK     8.4584e-01 1.6814e-01   1.0000
+     2   lnMSY   8.1012e+00 1.4774e-01   0.2924  1.0000
+     3   sd_sig  1.6420e+03 3.9130e-06   0.4623  0.9831  1.0000

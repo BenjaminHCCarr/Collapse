@@ -1,0 +1,405 @@
+
+ File ../Input/RC_CMSY_data8.csv read successfully 
+
+ Stock NEFSC-ACADREDGOMGB-1913-2007-MILLER 
+Last year = 2007 , last catch = 1160 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1914  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 55892 - 2794600 
+Too few ( 0 ) possible r-k combinations, check input parameters 
+
+ Stock NEFSC-AMPL5YZ-1960-2008-OBRIEN 
+Last year = 2007 , last catch = 1226.17 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1981  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 15567 - 778340 
+First MSY = 7973 
+First r = 0.243 
+New upper bound for r = 0.77 
+New range for k = 57657 - 113447 
+Possible combinations =  1314 
+geom. mean r = 0.289 
+r +/- 2 SD = 0.196 - 0.425 
+geom. mean k = 101652 
+k +/- 2 SD = 83049 - 124423 
+geom. mean MSY = 7336 
+MSY +/- 2 SD = 5701 - 9440 
+
+ Stock NEFSC-ATHAL5YZ-1800-2007-COL 
+Last year = 2007 , last catch = 84.24 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1894  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 5725 - 286236 
+Too few ( 0 ) possible r-k combinations, check input parameters 
+
+ Stock NEFSC-BLUEFISHATLC-1981-2007-SHEPHERD 
+Last year = 2007 , last catch = 15568 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1982  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 52688 - 2634400 
+First MSY = 30375 
+First r = 0.245 
+New upper bound for r = 0.9 
+New range for k = 176946 - 427883 
+Possible combinations =  1015 
+geom. mean r = 0.297 
+r +/- 2 SD = 0.199 - 0.444 
+geom. mean k = 380709 
+k +/- 2 SD = 307988 - 470602 
+geom. mean MSY = 28251 
+MSY +/- 2 SD = 21617 - 36920 
+
+ Stock NEFSC-BSBASSMATLC-1968-2007-SHEPHERD 
+Last year = 2007 , last catch = 2811 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1969  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 7758 - 387900 
+First MSY = 3010 
+First r = 0.293 
+New upper bound for r = 1.1 
+New range for k = 13865 - 48893 
+Possible combinations =  2482 
+geom. mean r = 0.342 
+r +/- 2 SD = 0.185 - 0.63 
+geom. mean k = 36005 
+k +/- 2 SD = 21462 - 60401 
+geom. mean MSY = 3076 
+MSY +/- 2 SD = 2767 - 3421 
+
+ Stock NEFSC-BUTTERGOMCHATT-1965-2005-OVERHOLTZ 
+Last year = 2005 , last catch = 432 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1966  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 34266 - 1713300 
+First MSY = 9040 
+First r = 0.236 
+New upper bound for r = 0.55 
+New range for k = 90862 - 149236 
+Possible combinations =  663 
+geom. mean r = 0.272 
+r +/- 2 SD = 0.2 - 0.369 
+geom. mean k = 137750 
+k +/- 2 SD = 117929 - 160901 
+geom. mean MSY = 9350 
+MSY +/- 2 SD = 7842 - 11148 
+
+ Stock NEFSC-CODGB-1960-2008-BAUM 
+Last year = 2007 , last catch = 4786 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 57149 - 2857450 
+First MSY = 29100 
+First r = 0.26 
+New upper bound for r = 0.79 
+New range for k = 192240 - 497294 
+Possible combinations =  1330 
+geom. mean r = 0.283 
+r +/- 2 SD = 0.191 - 0.421 
+geom. mean k = 416225 
+k +/- 2 SD = 305955 - 566237 
+geom. mean MSY = 29500 
+MSY +/- 2 SD = 26792 - 32481 
+
+ Stock NEFSC-CODGOM-1893-2008-BAUM 
+Last year = 2007 , last catch = 3989 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1894  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 17781 - 889050 
+Too few ( 0 ) possible r-k combinations, check input parameters 
+
+ Stock NEFSC-HAD5Y-1956-2008-BAUM 
+Last year = 2007 , last catch = 1368 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1957  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 7672 - 383595 
+First MSY = 4402 
+First r = 0.231 
+New upper bound for r = 0.4 
+New range for k = 47192 - 72243 
+Possible combinations =  189 
+geom. mean r = 0.243 
+r +/- 2 SD = 0.189 - 0.313 
+geom. mean k = 65901 
+k +/- 2 SD = 55906 - 77684 
+geom. mean MSY = 4010 
+MSY +/- 2 SD = 3443 - 4671 
+
+ Stock NEFSC-HADGB-1930-2008-BAUM 
+Last year = 2007 , last catch = 7.009816 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1932  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 91.9 - 4595 
+First MSY = 17.2 
+First r = 0.245 
+New upper bound for r = 0.41 
+New range for k = 204 - 302 
+Possible combinations =  92 
+geom. mean r = 0.242 
+r +/- 2 SD = 0.201 - 0.29 
+geom. mean k = 281 
+k +/- 2 SD = 249 - 317 
+geom. mean MSY = 17 
+MSY +/- 2 SD = 15.9 - 18.2 
+
+ Stock NEFSC-HERRNWATLC-1960-2005-OVERHOLTZ 
+Last year = 2005 , last catch = 105897.6 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 469535 - 23476750 
+First MSY = 168985 
+First r = 0.232 
+New upper bound for r = 0.53 
+New range for k = 1746265 - 2821198 
+Possible combinations =  790 
+geom. mean r = 0.27 
+r +/- 2 SD = 0.206 - 0.354 
+geom. mean k = 2601698 
+k +/- 2 SD = 2249381 - 3009199 
+geom. mean MSY = 175654 
+MSY +/- 2 SD = 151533 - 203614 
+
+ Stock NEFSC-ILLEXNWATLC-1967-2005-HENDRICKSON 
+Last year = 2005 , last catch = 12032 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1968  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 26097 - 1304850 
+First MSY = 12434 
+First r = 0.273 
+New upper bound for r = 0.82 
+New range for k = 83427 - 201324 
+Possible combinations =  3289 
+geom. mean r = 0.311 
+r +/- 2 SD = 0.201 - 0.481 
+geom. mean k = 164365 
+k +/- 2 SD = 119498 - 226080 
+geom. mean MSY = 12772 
+MSY +/- 2 SD = 11239 - 14514 
+
+ Stock NEFSC-MACKGOMCHATT-1960-2005-OVERHOLTZ 
+Last year = 2005 , last catch = 76827 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 436698 - 21834900 
+First MSY = 131332 
+First r = 0.228 
+New upper bound for r = 0.4 
+New range for k = 1773705 - 2296570 
+Possible combinations =  2434 
+geom. mean r = 0.26 
+r +/- 2 SD = 0.204 - 0.332 
+geom. mean k = 2172078 
+k +/- 2 SD = 1975916 - 2387714 
+geom. mean MSY = 141330 
+MSY +/- 2 SD = 121485 - 164417 
+
+ Stock NEFSC-MONKGOMNGB-1964-2006-RICHARDS 
+Last year = 2006 , last catch = 7187 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1981  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 16309 - 815450 
+First MSY = 9193 
+First r = 0.363 
+New upper bound for r = 1.2 
+New range for k = 41632 - 127812 
+Possible combinations =  8631 
+geom. mean r = 0.459 
+r +/- 2 SD = 0.198 - 1.06 
+geom. mean k = 84855 
+k +/- 2 SD = 46011 - 156490 
+geom. mean MSY = 9739 
+MSY +/- 2 SD = 7581 - 12511 
+
+ Stock NEFSC-MONKSGBMATL-1964-2006-RICHARDS 
+Last year = 2006 , last catch = 9560.97 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1981  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 20438 - 1021922 
+First MSY = 11121 
+First r = 0.319 
+New upper bound for r = 1.2 
+New range for k = 53931 - 161717 
+Possible combinations =  4691 
+geom. mean r = 0.383 
+r +/- 2 SD = 0.193 - 0.757 
+geom. mean k = 122147 
+k +/- 2 SD = 75884 - 196613 
+geom. mean MSY = 11681 
+MSY +/- 2 SD = 9335 - 14616 
+
+ Stock NEFSC-POLL5YZ-1963-2007-MAYO 
+Last year = 2007 , last catch = 9400.2 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1964  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 26650 - 1332494 
+First MSY = 13618 
+First r = 0.251 
+New upper bound for r = 0.65 
+New range for k = 111437 - 230912 
+Possible combinations =  1983 
+geom. mean r = 0.283 
+r +/- 2 SD = 0.201 - 0.4 
+geom. mean k = 198878 
+k +/- 2 SD = 155876 - 253743 
+geom. mean MSY = 14078 
+MSY +/- 2 SD = 12676 - 15636 
+
+ Stock NEFSC-QUAHATLC-1978-2008-CHUTE 
+Last year = 2008 , last catch = 15479 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1979  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 22477 - 1123850 
+First MSY = 18409 
+First r = 0.318 
+New upper bound for r = 1.2 
+New range for k = 72838 - 274278 
+Possible combinations =  6916 
+geom. mean r = 0.386 
+r +/- 2 SD = 0.207 - 0.718 
+geom. mean k = 190463 
+k +/- 2 SD = 108863 - 333228 
+geom. mean MSY = 18376 
+MSY +/- 2 SD = 16058 - 21028 
+
+ Stock NEFSC-SCALLGB-1964-2006-HART 
+Last year = 2006 , last catch = 17286 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 17286 - 864300 
+First MSY = 7655 
+First r = 0.468 
+New upper bound for r = 1.2 
+New range for k = 27240 - 78960 
+Possible combinations =  46532 
+geom. mean r = 0.634 
+r +/- 2 SD = 0.283 - 1.42 
+geom. mean k = 52803 
+k +/- 2 SD = 32110 - 86831 
+geom. mean MSY = 8364 
+MSY +/- 2 SD = 4538 - 15415 
+
+ Stock NEFSC-SCALLMATLC-1964-2006-HART 
+Last year = 2006 , last catch = 8819 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1965  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 24497 - 1224850 
+First MSY = 9233 
+First r = 0.391 
+New upper bound for r = 1.2 
+New range for k = 47704 - 108992 
+Possible combinations =  18572 
+geom. mean r = 0.515 
+r +/- 2 SD = 0.228 - 1.16 
+geom. mean k = 80471 
+k +/- 2 SD = 52729 - 122809 
+geom. mean MSY = 10363 
+MSY +/- 2 SD = 6727 - 15966 
+
+ Stock NEFSC-SCUPNWATLC-1960-2007-TERCEIRO 
+Last year = 2007 , last catch = 7867 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 37785 - 1889250 
+First MSY = 20451 
+First r = 0.232 
+New upper bound for r = 0.39 
+New range for k = 246426 - 337533 
+Possible combinations =  424 
+geom. mean r = 0.236 
+r +/- 2 SD = 0.182 - 0.305 
+geom. mean k = 309097 
+k +/- 2 SD = 271016 - 352530 
+geom. mean MSY = 18228 
+MSY +/- 2 SD = 15072 - 22045 
+Warning messages:
+1: In min(k1[r1 < 1.1 * parbound$r[1]]) :
+  no non-missing arguments to min; returning Inf
+2: In max(k1[r1 * k1/4 < mean_msy1]) :
+  no non-missing arguments to max; returning -Inf
+3: In min(k1[r1 < 1.1 * parbound$r[1]]) :
+  no non-missing arguments to min; returning Inf
+4: In max(k1[r1 * k1/4 < mean_msy1]) :
+  no non-missing arguments to max; returning -Inf
+5: In min(k1[r1 < 1.1 * parbound$r[1]]) :
+  no non-missing arguments to min; returning Inf
+6: In max(k1[r1 * k1/4 < mean_msy1]) :
+  no non-missing arguments to max; returning -Inf

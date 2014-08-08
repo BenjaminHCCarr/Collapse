@@ -1,0 +1,39 @@
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from http://data.nodc.noaa.gov/woa/WOA13/DATA/
+on 08/01/2014
+
+Database should be cited as:
+WORLD OCEAN ATLAS 2013
+World Ocean Atlas 2013 (WOA13) is a set of objectively analyzed (1° grid) climatological fields of statistical mean of Sea Surface Temperature in ºC, Sea Surface Salinity, and Wind Speed. 
+
+Citation for WOA13
+Temperature:	Locarnini, R. A., A. V. Mishonov, J. I. Antonov, T. P. Boyer, H. E. Garcia, O. K. Baranova, M. M. Zweng, C. R. Paver, J. R. Reagan, D. R. Johnson, M. Hamilton, and D. Seidov, 2013. World Ocean Atlas 2013, Volume 1: Temperature. S. Levitus, Ed., A. Mishonov Technical Ed.; NOAA Atlas NESDIS 73, 40 pp.
+
+Citation for WOA13
+Salinity:	Zweng, M.M, J.R. Reagan, J.I. Antonov, R.A. Locarnini, A.V. Mishonov, T.P. Boyer, H.E. Garcia, O.K. Baranova, D.R. Johnson, D.Seidov, M.M. Biddle, 2013. World Ocean Atlas 2013, Volume 2: Salinity. S. Levitus, Ed., A. Mishonov Technical Ed.; NOAA Atlas NESDIS 74, 39 pp.
+
+
+
+"lme_oceanography_summary.csv" this file contains values for the average, the Standard Deviation, and the number of observations from the original database in each LME used to calculate the average salinity, sea surface temperature and wind speed for each Large Marine Ecosystem (LME). Fields are described as follows:
+
+		
+
+LME_NUMBER is the official Large Marine Ecosystem (LME) number, from 1 to 66
+
+LME_NAME is the official Large Marine Ecosystem (LME) Name
+
+AVG_SAL is the average salinity, calculated from the yearly data on a 1 degree by 1 degree grid from the NODC World Ocean Database 2013, for each LME polygon . Units are in parts per thousand
+
+VAR_SAL is the Standard Deviation of the salinity from the NODC World Ocean Database 2013 calculated for each LME polygon using QGIS.
+
+SST_AVG	is the average climatological sea surface temperature for all observations in each LME polygon calculated from the yearly data on a 1 degree by 1 degree grid from the NODC World Ocean Database 2013. Units are in Degrees C.
+
+SST_VAR	is the Standard Deviation of the sea surface temperatures from the original dataset calculated for each LME polygon using QGIS.
+
+AVG_WINDSPE	is the average of scalar wind speed, derived from the 1979-2005 
+  NCEP-DOE AMIP-II Reanalysis (R-2) wind speed data and reported in the NODC World Ocean Database 2013, for all observations in each LME polygon. Unit is meters per second.  
+
+VAR_WINDSPE	is the Standard Deviation of the wind speed from the original dataset calculated for each LME polygon using QGIS.
+
+NUM_obs is the number of observations from the original dataset in each LME polygon used to calculate the LME average and Standard Deviation.

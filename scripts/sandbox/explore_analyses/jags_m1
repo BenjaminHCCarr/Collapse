@@ -1,0 +1,19 @@
+model {
+beta0~dunif(-5,5)
+beta1~dunif(-5,5)
+deneff~dunif(-5,5)
+dayeff~dunif(-5,5)
+dayeff2~dunif(-5,5)
+sigmaplot~dunif(0,7)
+tauplot<-sqrt(1/(sigmaplot*sigmaplot))
+for(i in 1:12){
+alpha[i]~dnorm(0,tauplot) ###I(-12,12)
+}
+for(i in 1:nind){
+  for(j in (first[i]+1):last[i]){
+     logit(phi[i,j])<-beta0 + beta1*((AGE[i,j]-10)/5)  + dayeff*DAY[i,j] + dayeff2*DAY2[i,j] + deneff*xdense[i] + alpha[xplot[i]]
+      mu[i,j]<-phi[i,j]*y[i,j-1]
+      y[i,j]~dbern(mu[i,j])
+}
+}
+}

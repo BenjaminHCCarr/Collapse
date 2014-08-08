@@ -1,0 +1,32 @@
+
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from ftp://ftp.nodc.noaa.gov/pub/data.nodc/woa/WOA13/DATA/oxygen/csv/all/1.00/
+on 08/01/2014
+
+Citation for WOA13
+Oxygen:	Garcia, H. E., R. A. Locarnini, T. P. Boyer, J. I. Antonov, O.K. Baranova, M.M. Zweng, J.R. Reagan, D.R. Johnson, 2014. World Ocean Atlas 2013, Volume 3: Dissolved Oxygen, Apparent Oxygen Utilization, and Oxygen Saturation. S. Levitus, Ed., A. Mishonov Technical Ed.; NOAA Atlas NESDIS 75, 27 pp.
+
+World Ocean Atlas 2013 (WOA13) is a set of objectively analyzed (1° grid) climatological fields of in situ temperature, salinity, dissolved oxygen, Apparent Oxygen Utilization (AOU), percent oxygen saturation, phosphate, silicate, and nitrate at standard depth levels for annual, seasonal, and monthly compositing periods for the World Ocean. It also includes associated statistical fields of observed oceanographic profile data interpolated to standard depth levels on 5°, 1°, and 0.25° grids
+
+WOA 2013 Data Access: Statistical mean of oxygen on 1° grid for all decades
+The oxygen climatological fields can be downloaded as an individual file or a compressed file of all climatological fields and related statistics. Information on downloading and reading the data is available from WOA instructions http://www.nodc.noaa.gov/OC5/woa13/readwoa13.html
+
+
+"lme_dissolved_oxygen.csv" this file contains values for the average, the Standard Deviation, and the number of observations (from the original WOA13_DATA database found in each LME)used to calculate the average dissolved oxygen for each Large Marine Ecosystem (LME). 
+
+Fields are described as follows:
+
+LME_NUMBER is the official Large Marine Ecosystem (LME) number, from 1 to 66
+
+LME_NAME is the official Large Marine Ecosystem (LME) Name
+
+DO_AVG is the average of dissolved oxygen, calculated from the yearly data on a 1 degree by 1 degree grid from the NODC World Ocean Database 2013, for each LME polygon . Units are in ml per Liter
+
+DO_VAR is the Standard Deviation of the yearly dissolved oxygen from the NODC World Ocean Database 2013 calculated for each LME polygon using QGIS.
+
+NUM_obs is the number of observations from the original dataset in each LME polygon used to calculate the LME average and Standard Deviation.
+
+
+
+

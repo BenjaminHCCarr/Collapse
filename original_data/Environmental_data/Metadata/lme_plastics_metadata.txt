@@ -1,0 +1,38 @@
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from http://onesharedocean.org/public_store/lmes_plastics_modeldistribution/tmp/
+on 08/01/2014
+
+
+"lme_plastics_model_output.csv" contains relative quantities of floating micro- (<4.75mm) and macro- (>4.75mm) plastics in LMEs, based on a model of surface water circulation and the use of proxy inputs (shipping density, coastal population density, area of impermeable catchment i.e. urban areas with rapid run-off).
+
+Unit: Count density: counts/km2
+      Weight Density: g/km2
+
+Rationale for inclusion:
+Plastic pollution is globally distributed across all oceans due to its properties of buoyancy and durability, and the sorption of toxicants to plastic while traveling through the environment have led some researchers to claim that synthetic polymers in the ocean should be regarded as hazardous waste. However, there are rather few reliable observational data on the quantities of macro- and micro-plastics in most LMEs. This method provides an internally-consistent approach to indicating the relative importance of floating plastic in each LME.
+
+Measurement methods and calculation: 
+surface net tows and visual survey transects combined with a calibrated oceanographic model of floating debris.
+
+Scale: Global grid at 0.2 nautical degree resolution.
+Data sources: Lebreton et al. 2012
+References: 
+Lebreton L, Greer S, Borrero J (2012) Numerical modeling of floating debris in the world’s oceans. Mar Poll Bull 64: 653–661.
+Eriksen et al., Global estimate of plastic pollution particle count and weight floating in the world’s oceans (accepted for publication with minor revision in PlosOne)
+
+Original dataset:
+The dataset is a Comma Separated Values textfile.
++ TWAP_LME_Plastics_ModelDistribution.csv: comma separated values, 1 row per LME
+
+Data fields:
+LME Name: Official LME Name
+LME Number: Official LME number, from 1 to 66
+micro: Count Density (counts/km2)
+micro: Weight Density (g/km2)
+macro: Count Density (counts/km2)
+macro: Weight Density (g/km2)
+total: Count Density (counts/km2)
+total: Weight Density (g/km2)
+
+--- end of file ---

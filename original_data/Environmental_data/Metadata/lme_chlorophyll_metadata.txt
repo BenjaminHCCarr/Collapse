@@ -1,0 +1,41 @@
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from http://onesharedocean.org/public_store/lmes_chla/tmp/67_regions_chl_long_term_mean.csv
+on 08/01/2014
+
+
+"lme_chlorophyll_long_term_mean.csv" contains long terms trends of monthly Chlorophyll-A values in mg.m-3 for all Large Marine Ecosystem areas. 
+
+Measurement methods and calculation: 
+Primary productivity estimates originate from ocean color sensors and satellites including the Coastal Zone Color Scanner (CZCS) Sea-viewing Wide Field-of-view Sensor (SeaWiFS), and Moderate Resolution Imaging Spectroradiometer (MODIS-Aqua and MODIS-Terra). A large archive of in situ near surface chlorophyll data, and satellite SST measurements made by Advanced Very High Resolution Radiometer (AVHRR) flown on NOAA satellites is used to quantify spatial and seasonal variability of near-surface chlorophyll and SST. Plankton can also be measured over decadal time scales by continuous plankton recorder systems as deployed by the Sir Alistair Hardy Foundation for Ocean Science (SAHFOS) from commercial vessels of opportunity.
+
+Scale: 
+Globally for all Large Marine Ecosystems, Annual trends 1996-2013
+
+Data sources: 
+NOAA's Northeast Fisheries Science Center, Narragansett Laboratory.
+
+Agencies & contacts: 
+NOAA's Northeast Fisheries Science Center, Narragansett Laboratory; University of Rhode Island.
+Contact: Jay O'Reilly (jeor123@gmail.com)
+Product: LMEs Monthly Chlorophyll-A and long term trends
+
+dataset:
+Comma separated text file (csv) for the Long term averages of each 66 Large Marine Ecosystems (LME) and the Pacific Warm Pool, one line per LME.
+For each line:
+LME,LME_NUM,N,M_MIN,M_MAX,MIN,MAX,MEAN
+LME: LME name
+LME_NUM: LME code number
+M_MIN: month of the minimum in the monthly averaged series
+M_MAX: month of the maximum in the monthly averaged series
+MIN: minimum of the monthly averaged series
+MAX: maximum of the monthly averaged series
+MEAN: mean of the series (see below the description of the series). The value correspond to a chlorophyll-a concentration. Units: mg/cubic meter (mg/m3).
+
+Series dataset description: 
+Time series of chlorophyll-A, per LME and the Pacific warm pool, from late 1996 to early 2014.
+Units: mg/cubic meter (mg/m3)
+
+
+
+--- end of file ---

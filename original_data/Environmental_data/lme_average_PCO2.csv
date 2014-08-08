@@ -1,0 +1,67 @@
+LME_NUMBER,LME_NAME,AVG_PCO2_SW,VAR_PCO2_SW,NUM_PCO2_SW
+1,East Bering Sea,350.3,175.0,8
+2,Gulf of Alaska,345.8,61.2,9
+3,California Current,364.6,241.1,9
+4,Gulf of California,na,na,0
+5,Gulf of Mexico,371.1,9.5,5
+6,Southeast U.S. Continental Shelf,358.8,0.0,1
+7,Northeast U.S. Continental Shelf,na,na,0
+8,Scotian Shelf,353.5,0.0,1
+9,Labrador - Newfoundland,328.8,98.7,5
+10,Insular Pacific-Hawaiian,347.7,11.5,5
+11,Pacific Central-American Coastal,386.4,148.5,5
+12,Caribbean Sea,367.4,20.8,12
+13,Humboldt Current,366.4,663.6,12
+14,Patagonian Shelf,333.3,105.1,6
+15,South Brazil Shelf,354.4,47.5,2
+16,East Brazil Shelf,378.8,100.2,4
+17,North Brazil Shelf,372.8,14.4,2
+18,Canadian Eastern Arctic - West Greenland,303.9,157.9,4
+19,Greenland Sea,297.6,140.1,17
+20,Barents Sea,330.3,623.7,21
+21,Norwegian Sea,312.5,38.7,12
+22,North Sea,332.0,89.5,3
+23,Baltic Sea,na,na,0
+24,Celtic-Biscay Shelf,338.5,48.5,2
+25,Iberian Coastal,na,na,0
+26,Mediterranean Sea,na,na,0
+27,Canary Current,357.0,9.5,2
+28,Guinea Current,366.2,106.5,4
+29,Benguela Current,336.7,124.2,2
+30,Agulhas Current,351.8,153.3,11
+31,Somali Coastal Current,375.0,12.4,2
+32,Arabian Sea,385.1,96.5,13
+33,Red Sea,na,na,0
+34,Bay of Bengal,356.7,54.0,11
+35,Gulf of Thailand,na,na,0
+36,South China Sea,347.9,2.1,7
+37,Sulu-Celebes Sea,351.0,1.0,3
+38,Indonesian Sea,na,na,0
+39,North Australian Shelf,395.6,1.8,2
+40,Northeast Australian Shelf,351.5,10.8,4
+41,East Central Australian Shelf,342.4,0.0,1
+42,Southeast Australian Shelf,334.9,24.1,4
+43,South West Australian Shelf,341.4,0.0,1
+44,West Central Australian Shelf,344.0,11.6,3
+45,Northwest Australian Shelf,364.5,30.1,2
+46,New Zealand Shelf,334.2,81.6,5
+47,East China Sea,335.6,12.9,2
+48,Yellow Sea,na,na,0
+49,Kuroshio Current,331.2,42.0,4
+50,Sea of Japan,na,na,0
+51,Oyashio Current,342.0,104.2,3
+52,Sea of Okhotsk,352.7,0.0,1
+53,West Bering Sea,357.1,7.4,4
+54,Northern Bering - Chukchi Seas,293.2,305.5,14
+55,Beaufort Sea,324.7,377.3,7
+56,East Siberian Sea,347.9,25.6,6
+57,Laptev Sea,na,na,0
+58,Kara Sea,358.6,0.1,5
+59,Iceland Shelf and Sea,312.2,39.2,3
+60,Faroe Plateau,na,na,0
+61,Antarctica,361.4,58.1,25
+62,Black Sea,na,na,0
+63,Hudson Bay Complex,na,na,0
+64,Central Arctic,317.7,186.4,5
+65,Aleutian Islands,373.3,4.3,4
+66,Canadian High Arctic - North Greenland,na,na,0

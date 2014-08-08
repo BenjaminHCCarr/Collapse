@@ -1,0 +1,3 @@
+INFO: Open of `LME66.shp'
+      using driver `ESRI Shapefile' successful.
+FAILURE: Couldn't fetch requested layer LME66_txt.txt!

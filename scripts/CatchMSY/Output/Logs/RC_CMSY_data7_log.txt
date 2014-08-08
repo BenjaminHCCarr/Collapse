@@ -1,0 +1,387 @@
+
+ File ../Input/RC_CMSY_data7.csv read successfully 
+
+ Stock MARAM-CRLOBSTERSA12-1910-2008-Johnston 
+Last year = 2007 , last catch = 40.14 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3024 - 151175 
+Too few ( 3 ) possible r-k combinations, check input parameters 
+
+ Stock MARAM-CRLOBSTERSA34-1910-2008-Johnston 
+Last year = 2007 , last catch = 139.63 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3587 - 179354 
+Too few ( 9 ) possible r-k combinations, check input parameters 
+
+ Stock MARAM-CRLOBSTERSA56-1910-2008-Johnston 
+Last year = 2007 , last catch = 84.63 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 5380 - 269022 
+Too few ( 1 ) possible r-k combinations, check input parameters 
+
+ Stock MARAM-CRLOBSTERSA7-1910-2008-Johnston 
+Last year = 2007 , last catch = 948.28 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 3589 - 179432 
+Too few ( 7 ) possible r-k combinations, check input parameters 
+
+ Stock MARAM-CRLOBSTERSA8-1910-2008-Johnston 
+Last year = 2007 , last catch = 1863.33 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1911  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2563 - 128170 
+First MSY = 2017 
+First r = 0.416 
+New upper bound for r = 1.2 
+New range for k = 7092 - 25889 
+Possible combinations =  22321 
+geom. mean r = 0.546 
+r +/- 2 SD = 0.238 - 1.25 
+geom. mean k = 15093 
+k +/- 2 SD = 7521 - 30288 
+geom. mean MSY = 2062 
+MSY +/- 2 SD = 1566 - 2714 
+
+ Stock MARAM-CTRACSA-1950-2007-Johnston 
+Last year = 2007 , last catch = 49000 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1951  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 120650 - 6032500 
+First MSY = 46697 
+First r = 0.224 
+New upper bound for r = 0.37 
+New range for k = 560032 - 777663 
+Possible combinations =  569 
+geom. mean r = 0.258 
+r +/- 2 SD = 0.207 - 0.321 
+geom. mean k = 722290 
+k +/- 2 SD = 636159 - 820083 
+geom. mean MSY = 46612 
+MSY +/- 2 SD = 40951 - 53057 
+
+ Stock MARAM-DEEPCHAKESA-1917-2008-DEDECKER 
+Last year = 2008 , last catch = 107181 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1918  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 203658 - 10182900 
+First MSY = 121535 
+First r = 0.341 
+New upper bound for r = 1.2 
+New range for k = 477972 - 1890729 
+Possible combinations =  6488 
+geom. mean r = 0.395 
+r +/- 2 SD = 0.2 - 0.783 
+geom. mean k = 1237242 
+k +/- 2 SD = 671788 - 2278647 
+geom. mean MSY = 122316 
+MSY +/- 2 SD = 108226 - 138240 
+
+ Stock MARAM-KINGKLIPSA-1932-2008-DEDECKER 
+Last year = 2008 , last catch = 2404 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1933  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 11370 - 568500 
+First MSY = 4305 
+First r = 0.263 
+New upper bound for r = 0.69 
+New range for k = 34157 - 73388 
+Possible combinations =  1416 
+geom. mean r = 0.287 
+r +/- 2 SD = 0.193 - 0.429 
+geom. mean k = 61450 
+k +/- 2 SD = 46309 - 81541 
+geom. mean MSY = 4414 
+MSY +/- 2 SD = 3921 - 4969 
+
+ Stock MARAM-PTOOTHFISHPEI-1960-2008-DEDECKER 
+Last year = 2007 , last catch = 804.7 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 24271 - 1213560 
+First MSY = 2499 
+First r = 0.293 
+New upper bound for r = 1.2 
+New range for k = 24561 - 34379 
+Possible combinations =  5709 
+geom. mean r = 0.364 
+r +/- 2 SD = 0.21 - 0.631 
+geom. mean k = 32194 
+k +/- 2 SD = 29070 - 35655 
+geom. mean MSY = 2931 
+MSY +/- 2 SD = 1866 - 4606 
+
+ Stock MARAM-SAABALONESA-1951-2008-PLAGANYI 
+Last year = 2008 , last catch = 24 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1952  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 2712 - 135620 
+First MSY = 1054 
+First r = 0.229 
+New upper bound for r = 0.45 
+New range for k = 11914 - 18446 
+Possible combinations =  724 
+geom. mean r = 0.254 
+r +/- 2 SD = 0.204 - 0.316 
+geom. mean k = 17069 
+k +/- 2 SD = 14863 - 19602 
+geom. mean MSY = 1085 
+MSY +/- 2 SD = 994 - 1183 
+
+ Stock MARAM-SARDSA-1984-2006-deMoor 
+Last year = 2006 , last catch = 217138 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1985  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.3 - 0.7  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 373811 - 18690550 
+First MSY = 207423 
+First r = 0.409 
+New upper bound for r = 1.2 
+New range for k = 801489 - 2194831 
+Possible combinations =  29467 
+geom. mean r = 0.586 
+r +/- 2 SD = 0.265 - 1.29 
+geom. mean k = 1503057 
+k +/- 2 SD = 897110 - 2518289 
+geom. mean MSY = 220112 
+MSY +/- 2 SD = 144590 - 335081 
+
+ Stock MARAM-SSLOBSTERSASC-1973-2008-Johnston 
+Last year = 2008 , last catch = 363 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1974  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 973 - 48650 
+First MSY = 418 
+First r = 0.294 
+New upper bound for r = 1.1 
+New range for k = 1906 - 6571 
+Possible combinations =  4208 
+geom. mean r = 0.343 
+r +/- 2 SD = 0.201 - 0.584 
+geom. mean k = 4925 
+k +/- 2 SD = 3105 - 7811 
+geom. mean MSY = 422 
+MSY +/- 2 SD = 376 - 475 
+
+ Stock NAFO-SC-AMPL3LNO-1955-2007-BAUM 
+Last year = 2006 , last catch = 2828 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 94413 - 4720650 
+First MSY = 42424 
+First r = 0.239 
+New upper bound for r = 0.44 
+New range for k = 461148 - 716552 
+Possible combinations =  1003 
+geom. mean r = 0.27 
+r +/- 2 SD = 0.206 - 0.354 
+geom. mean k = 645101 
+k +/- 2 SD = 538895 - 772239 
+geom. mean MSY = 43560 
+MSY +/- 2 SD = 39157 - 48457 
+
+ Stock NAFO-SC-AMPL3M-1960-2007-BAUM 
+Last year = 2007 , last catch = 0 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 5627 - 281350 
+First MSY = 1441 
+First r = 0.248 
+New upper bound for r = 0.54 
+New range for k = 14858 - 24350 
+Possible combinations =  2878 
+geom. mean r = 0.275 
+r +/- 2 SD = 0.201 - 0.376 
+geom. mean k = 21703 
+k +/- 2 SD = 18050 - 26095 
+geom. mean MSY = 1492 
+MSY +/- 2 SD = 1305 - 1705 
+
+ Stock NAFO-SC-COD3M-1959-2008-BAUM 
+Last year = 2007 , last catch = 125 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1960  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 57503 - 2875150 
+First MSY = 22097 
+First r = 0.235 
+New upper bound for r = 0.44 
+New range for k = 239887 - 372835 
+Possible combinations =  301 
+geom. mean r = 0.26 
+r +/- 2 SD = 0.2 - 0.339 
+geom. mean k = 342263 
+k +/- 2 SD = 293338 - 399347 
+geom. mean MSY = 22272 
+MSY +/- 2 SD = 19440 - 25516 
+
+ Stock NAFO-SC-COD3NO-1953-2007-BAUM 
+Last year = 2006 , last catch = 601 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1954  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 226784 - 11339200 
+First MSY = 72985 
+First r = 0.235 
+New upper bound for r = 0.43 
+New range for k = 827787 - 1247224 
+Possible combinations =  259 
+geom. mean r = 0.253 
+r +/- 2 SD = 0.197 - 0.323 
+geom. mean k = 1150317 
+k +/- 2 SD = 997178 - 1326973 
+geom. mean MSY = 72621 
+MSY +/- 2 SD = 63881 - 82556 
+
+ Stock NAFO-SC-GHAL23KLMNO-1960-2006-PREFONTAINE 
+Last year = 2006 , last catch = 24000 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 65000 - 3250000 
+First MSY = 29301 
+First r = 0.297 
+New upper bound for r = 1.2 
+New range for k = 151248 - 476018 
+Possible combinations =  1919 
+geom. mean r = 0.33 
+r +/- 2 SD = 0.187 - 0.584 
+geom. mean k = 363268 
+k +/- 2 SD = 236135 - 558847 
+geom. mean MSY = 29980 
+MSY +/- 2 SD = 25938 - 34653 
+
+ Stock NAFO-SC-REDFISHSPP3LN-1959-2008-BAUM 
+Last year = 2007 , last catch = 1664 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1960  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 79031 - 3951550 
+First MSY = 23929 
+First r = 0.265 
+New upper bound for r = 0.77 
+New range for k = 170833 - 389256 
+Possible combinations =  710 
+geom. mean r = 0.295 
+r +/- 2 SD = 0.191 - 0.458 
+geom. mean k = 318838 
+k +/- 2 SD = 229259 - 443417 
+geom. mean MSY = 23542 
+MSY +/- 2 SD = 20350 - 27234 
+
+ Stock NAFO-SC-REDFISHSPP3M-1985-2006-PREFONTAINE 
+Last year = 2006 , last catch = 4121 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.3 - 0.6  k 
+Assumed intermediate biomass (B/k) in 1990  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 80223 - 4011150 
+First MSY = 30213 
+First r = 0.259 
+New upper bound for r = 1.1 
+New range for k = 185104 - 371133 
+Possible combinations =  2162 
+geom. mean r = 0.332 
+r +/- 2 SD = 0.199 - 0.554 
+geom. mean k = 336680 
+k +/- 2 SD = 280195 - 404551 
+geom. mean MSY = 27983 
+MSY +/- 2 SD = 18887 - 41459 
+
+ Stock NAFO-SC-YELL3LNO-1960-2009-BAUM 
+Last year = 2007 , last catch = 4623 
+Resilience = Medium 
+Process error = 0 
+Assumed initial biomass (B/k) = 0.5 - 0.9  k 
+Assumed intermediate biomass (B/k) in 1961  = 0 - 1  k 
+Assumed final biomass (B/k) = 0.01 - 0.4  k 
+Initial bounds for r = 0.2 - 1 
+Initial bounds for k = 39259 - 1962950 
+First MSY = 14796 
+First r = 0.25 
+New upper bound for r = 0.61 
+New range for k = 134462 - 253390 
+Possible combinations =  1763 
+geom. mean r = 0.274 
+r +/- 2 SD = 0.195 - 0.384 
+geom. mean k = 222791 
+k +/- 2 SD = 178721 - 277729 
+geom. mean MSY = 15247 
+MSY +/- 2 SD = 13516 - 17199 
+Warning messages:
+1: In min(k1[r1 < 1.1 * parbound$r[1]]) :
+  no non-missing arguments to min; returning Inf
+2: In max(k1[r1 * k1/4 < mean_msy1]) :
+  no non-missing arguments to max; returning -Inf

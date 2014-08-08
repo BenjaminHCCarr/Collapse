@@ -1,0 +1,52 @@
+Metadata for files deposited in https://github.com/emfuller/Regional_Collapse/original_data/Environmental_data/.git for: Regional_Collapse Group project for OSS 2014
+
+Data collected by Vanessa Michelou from http://cdiac.ornl.gov/ftp/oceans/LDEO_Database/LDEO_Database_V2013 pCO2 dataset 
+on 08/01/2014
+
+Database should be cited as:
+Takahashi, T., S.C. Sutherland, and A. Kozyr. 2014. Global Ocean
+Surface Water Partial Pressure of CO2 Database: Measurements Performed
+During 1957-2013 (Version 2013). ORNL/CDIAC-160, NDP-088(V2013).
+Carbon Dioxide Information Analysis Center, Oak Ridge National 
+Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee,
+doi: 10.3334/CDIAC/OTG.NDP088(V2013).
+
+Database description:
+Approximately 9.0 million measurements of surface water pCO2 made over
+the global oceans during 1957-2013 have been processed to make a
+uniform data file in this Version 2013. Measurements made in open
+oceans as well as in coastal waters are included. The data assembled
+include only those measured using equilibrator-CO2 analyzer systems,
+and have been quality-controlled based upon the stability of the
+system performance, the reliability of calibrations for CO2 analysis
+and the internal consistency of data. In order to allow re-examination
+of the data in the future, a number of measured parameters relevant to
+pCO2 in seawater are listed. The overall uncertainty for the pCO2
+values listed is estimated to be ± 2.5 uatm on the average. However,
+as discussed in Section 5, errors up to about 5 uatm are possible when
+underway measurements were made across high SST gradient areas due to
+time lag of sample water transit from the intake to the
+equilibrator. The names and institutional affiliations of the
+contributors are listed in Table 1. A column is added for reporting
+the partial pressure of CO2 in seawater in units of Pascals. The
+documentations for the previous versions (V1.0, V2007, V2008, V2009,
+V2010, 2011, and V2012) of LDEO database are available at CDIAC
+http://cdiac.ornl.gov/ftp/oceans/LDEO_Database/
+
+The global pCO2 data set is available free of charge as a numeric data
+package (NDP) from the Carbon Dioxide Information Analysis Center
+(CDIAC). The NDP consists of the oceanographic data files and this
+printed documentation, which describes the procedures and methods used
+to obtain the data.
+
+"lme_average_PCO2.csv" this file contains values for the average, the Standard Deviation, and the number of observations from the original database in each LME used to calculate the average pCO2 for each Large Marine Ecosystem (LME). Fields are described as follows:
+
+LME_NUMBER is the official Large Marine Ecosystem (LME) number, from 1 to 66
+
+LME_NAME is the official Large Marine Ecosystem (LME) Name
+
+AVG_PCO2 is the average monthly pCO2 (uatm) in surface water at SST calculated from the original LDEO_Database_V2013 pCO2 dataset for each LME polygon using QGIS.
+
+VAR_PCO2 is the Standard Deviation of monthly pCO2 (uatm) from the original LDEO_Database_V2013 pCO2 dataset calculated for each LME polygon using QGIS.
+
+NUM_obs is the number of monthly pCO2 (uatm) observations from the original LDEO_Database_V2013 pCO2 dataset in each LME polygon (used to calculate the LME average and Standard Deviation)
