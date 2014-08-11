@@ -5,9 +5,7 @@
 We want to be confident that we can contribute a novel and useful result, so we need to read the relevant literature. We'll build a list of papers we (as a group) need to read and understand in order to be confident that we're doing something new. To do this we need to 
 
 - Check papers written by previous NCEAS working groups which used the Ram Myers database to answer questions about global stock status (likely to be closest to overlapping with us).
-	+ [Worm working group](https://www.nceas.ucsb.edu/projects/6860) [**Edgar**, **Vanessa**]
-		+ make sure both people scan each reference, good to have multiple opinions
-	+ [Hilborn and Worm working group](https://www.nceas.ucsb.edu/projects/12109) [**Annie**, **Nina**, **Ingrid**]
+	+ [Worm working group](https://www.nceas.ucsb.edu/projects/6860) and [Hilborn and Worm working group](https://www.nceas.ucsb.edu/projects/12109) [**Annie**, **Nina**, **Ingrid**,**Edgar**, **Vanessa**]
 		+ make sure both people scan each reference, good to have multiple opinions
 	+ Scan current literature to find papers on what causes collapse of fish populations [**Ben**, **Emma**]
 
@@ -27,7 +25,7 @@ After we build a list of important sources, we'll split up and each take a secti
 
 first author | year | journal | DOI | relevance | short note | detailed notes
 ------------ | ---- | ------- | --- | --------- | ---------- | ---------------
-Costello     | 2012 | Science  | 10.1126/science.1223389 |  high     | uses regression model to estimate what covariates predict stock status. extremely similar to our approach [**emma**]. also does other cool stuff [**nina**].  | [to be added]
+Costello     | 2012 | Nature  | 10.1126/science.1223389 |  high     |uses regression model to estimate what covariates predict stock status. extremely similar to our approach [**emma**]. also does other cool stuff [**nina**].  | [to be added]
 
 Goal: have this completed by October first (2 months)
 
